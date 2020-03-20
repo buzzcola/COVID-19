@@ -1,0 +1,2143 @@
+Province/State,Country/Region,Date,Metric,Count
+"Washington","US",2020-01-22,Confirmed,1
+"Washington","US",2020-01-22,Deaths,0
+"Washington","US",2020-01-22,Recovered,0
+"Washington","US",2020-01-23,Confirmed,1
+"Washington","US",2020-01-23,Deaths,0
+"Washington","US",2020-01-23,Recovered,0
+"Washington","US",2020-01-24,Confirmed,1
+"Washington","US",2020-01-24,Deaths,0
+"Washington","US",2020-01-24,Recovered,0
+"Chicago","US",2020-01-24,Confirmed,1
+"Chicago","US",2020-01-24,Deaths,0
+"Chicago","US",2020-01-24,Recovered,0
+"Washington","US",2020-01-25,Confirmed,1
+"Washington","US",2020-01-25,Deaths,0
+"Washington","US",2020-01-25,Recovered,0
+"Illinois","US",2020-01-25,Confirmed,1
+"Illinois","US",2020-01-25,Deaths,0
+"Illinois","US",2020-01-25,Recovered,0
+"Washington","US",2020-01-26,Confirmed,1
+"Washington","US",2020-01-26,Deaths,0
+"Washington","US",2020-01-26,Recovered,0
+"Illinois","US",2020-01-26,Confirmed,1
+"Illinois","US",2020-01-26,Deaths,0
+"Illinois","US",2020-01-26,Recovered,0
+"California","US",2020-01-26,Confirmed,2
+"California","US",2020-01-26,Deaths,0
+"California","US",2020-01-26,Recovered,0
+"Arizona","US",2020-01-26,Confirmed,1
+"Arizona","US",2020-01-26,Deaths,0
+"Arizona","US",2020-01-26,Recovered,0
+"Ontario","Canada",2020-01-26,Confirmed,1
+"Ontario","Canada",2020-01-26,Deaths,0
+"Ontario","Canada",2020-01-26,Recovered,0
+"Washington","US",2020-01-27,Confirmed,1
+"Washington","US",2020-01-27,Deaths,0
+"Washington","US",2020-01-27,Recovered,0
+"Illinois","US",2020-01-27,Confirmed,1
+"Illinois","US",2020-01-27,Deaths,0
+"Illinois","US",2020-01-27,Recovered,0
+"California","US",2020-01-27,Confirmed,2
+"California","US",2020-01-27,Deaths,0
+"California","US",2020-01-27,Recovered,0
+"Arizona","US",2020-01-27,Confirmed,1
+"Arizona","US",2020-01-27,Deaths,0
+"Arizona","US",2020-01-27,Recovered,0
+"Ontario","Canada",2020-01-27,Confirmed,1
+"Ontario","Canada",2020-01-27,Deaths,0
+"Ontario","Canada",2020-01-27,Recovered,0
+"Washington","US",2020-01-28,Confirmed,1
+"Washington","US",2020-01-28,Deaths,0
+"Washington","US",2020-01-28,Recovered,0
+"Illinois","US",2020-01-28,Confirmed,1
+"Illinois","US",2020-01-28,Deaths,0
+"Illinois","US",2020-01-28,Recovered,0
+"California","US",2020-01-28,Confirmed,2
+"California","US",2020-01-28,Deaths,0
+"California","US",2020-01-28,Recovered,0
+"Arizona","US",2020-01-28,Confirmed,1
+"Arizona","US",2020-01-28,Deaths,0
+"Arizona","US",2020-01-28,Recovered,0
+"Ontario","Canada",2020-01-28,Confirmed,1
+"Ontario","Canada",2020-01-28,Deaths,0
+"Ontario","Canada",2020-01-28,Recovered,0
+"British Columbia","Canada",2020-01-28,Confirmed,1
+"British Columbia","Canada",2020-01-28,Deaths,0
+"British Columbia","Canada",2020-01-28,Recovered,0
+"Washington","US",2020-01-29,Confirmed,1
+"Washington","US",2020-01-29,Deaths,0
+"Washington","US",2020-01-29,Recovered,0
+"Illinois","US",2020-01-29,Confirmed,1
+"Illinois","US",2020-01-29,Deaths,0
+"Illinois","US",2020-01-29,Recovered,0
+"California","US",2020-01-29,Confirmed,2
+"California","US",2020-01-29,Deaths,0
+"California","US",2020-01-29,Recovered,0
+"Arizona","US",2020-01-29,Confirmed,1
+"Arizona","US",2020-01-29,Deaths,0
+"Arizona","US",2020-01-29,Recovered,0
+"Ontario","Canada",2020-01-29,Confirmed,1
+"Ontario","Canada",2020-01-29,Deaths,0
+"Ontario","Canada",2020-01-29,Recovered,0
+"British Columbia","Canada",2020-01-29,Confirmed,1
+"British Columbia","Canada",2020-01-29,Deaths,0
+"British Columbia","Canada",2020-01-29,Recovered,0
+"Washington","US",2020-01-30,Confirmed,1
+"Washington","US",2020-01-30,Deaths,0
+"Washington","US",2020-01-30,Recovered,0
+"Illinois","US",2020-01-30,Confirmed,1
+"Illinois","US",2020-01-30,Deaths,0
+"Illinois","US",2020-01-30,Recovered,0
+"California","US",2020-01-30,Confirmed,2
+"California","US",2020-01-30,Deaths,0
+"California","US",2020-01-30,Recovered,0
+"Arizona","US",2020-01-30,Confirmed,1
+"Arizona","US",2020-01-30,Deaths,0
+"Arizona","US",2020-01-30,Recovered,0
+"Ontario","Canada",2020-01-30,Confirmed,2
+"Ontario","Canada",2020-01-30,Deaths,0
+"Ontario","Canada",2020-01-30,Recovered,0
+"British Columbia","Canada",2020-01-30,Confirmed,1
+"British Columbia","Canada",2020-01-30,Deaths,0
+"British Columbia","Canada",2020-01-30,Recovered,0
+"Illinois","US",2020-01-31,Confirmed,2
+"Illinois","US",2020-01-31,Deaths,0
+"Illinois","US",2020-01-31,Recovered,0
+"California","US",2020-01-31,Confirmed,2
+"California","US",2020-01-31,Deaths,0
+"California","US",2020-01-31,Recovered,0
+"Ontario","Canada",2020-01-31,Confirmed,2
+"Ontario","Canada",2020-01-31,Deaths,0
+"Ontario","Canada",2020-01-31,Recovered,0
+"Washington","US",2020-01-31,Confirmed,1
+"Washington","US",2020-01-31,Deaths,0
+"Washington","US",2020-01-31,Recovered,0
+"Arizona","US",2020-01-31,Confirmed,1
+"Arizona","US",2020-01-31,Deaths,0
+"Arizona","US",2020-01-31,Recovered,0
+"British Columbia","Canada",2020-01-31,Confirmed,1
+"British Columbia","Canada",2020-01-31,Deaths,0
+"British Columbia","Canada",2020-01-31,Recovered,0
+"Ontario","Canada",2020-02-01,Confirmed,3
+"Ontario","Canada",2020-02-01,Deaths,0
+"Ontario","Canada",2020-02-01,Recovered,0
+"British Columbia","Canada",2020-02-01,Confirmed,1
+"British Columbia","Canada",2020-02-01,Deaths,0
+"British Columbia","Canada",2020-02-01,Recovered,0
+"Ontario","Canada",2020-02-02,Confirmed,3
+"Ontario","Canada",2020-02-02,Deaths,0
+"Ontario","Canada",2020-02-02,Recovered,0
+"British Columbia","Canada",2020-02-02,Confirmed,1
+"British Columbia","Canada",2020-02-02,Deaths,0
+"British Columbia","Canada",2020-02-02,Recovered,0
+"Ontario","Canada",2020-02-03,Confirmed,3
+"Ontario","Canada",2020-02-03,Deaths,0
+"Ontario","Canada",2020-02-03,Recovered,0
+"British Columbia","Canada",2020-02-03,Confirmed,1
+"British Columbia","Canada",2020-02-03,Deaths,0
+"British Columbia","Canada",2020-02-03,Recovered,0
+"British Columbia","Canada",2020-02-04,Confirmed,1
+"British Columbia","Canada",2020-02-04,Deaths,0
+"British Columbia","Canada",2020-02-04,Recovered,0
+"British Columbia","Canada",2020-02-05,Confirmed,2
+"British Columbia","Canada",2020-02-05,Deaths,0
+"British Columbia","Canada",2020-02-05,Recovered,0
+"British Columbia","Canada",2020-02-06,Confirmed,2
+"British Columbia","Canada",2020-02-06,Deaths,0
+"British Columbia","Canada",2020-02-06,Recovered,0
+"British Columbia","Canada",2020-02-07,Confirmed,4
+"British Columbia","Canada",2020-02-07,Deaths,0
+"British Columbia","Canada",2020-02-07,Recovered,0
+"British Columbia","Canada",2020-02-08,Confirmed,4
+"British Columbia","Canada",2020-02-08,Deaths,0
+"British Columbia","Canada",2020-02-08,Recovered,0
+"British Columbia","Canada",2020-02-09,Confirmed,4
+"British Columbia","Canada",2020-02-09,Deaths,0
+"British Columbia","Canada",2020-02-09,Recovered,0
+"British Columbia","Canada",2020-02-10,Confirmed,4
+"British Columbia","Canada",2020-02-10,Deaths,0
+"British Columbia","Canada",2020-02-10,Recovered,0
+"British Columbia","Canada",2020-02-11,Confirmed,4
+"British Columbia","Canada",2020-02-11,Deaths,0
+"British Columbia","Canada",2020-02-11,Recovered,0
+"British Columbia","Canada",2020-02-12,Confirmed,4
+"British Columbia","Canada",2020-02-12,Deaths,0
+"British Columbia","Canada",2020-02-12,Recovered,0
+"British Columbia","Canada",2020-02-13,Confirmed,4
+"British Columbia","Canada",2020-02-13,Deaths,0
+"British Columbia","Canada",2020-02-13,Recovered,0
+"British Columbia","Canada",2020-02-14,Confirmed,4
+"British Columbia","Canada",2020-02-14,Deaths,0
+"British Columbia","Canada",2020-02-14,Recovered,0
+"British Columbia","Canada",2020-02-15,Confirmed,4
+"British Columbia","Canada",2020-02-15,Deaths,0
+"British Columbia","Canada",2020-02-15,Recovered,0
+"British Columbia","Canada",2020-02-16,Confirmed,4
+"British Columbia","Canada",2020-02-16,Deaths,0
+"British Columbia","Canada",2020-02-16,Recovered,0
+"British Columbia","Canada",2020-02-17,Confirmed,5
+"British Columbia","Canada",2020-02-17,Deaths,0
+"British Columbia","Canada",2020-02-17,Recovered,0
+"British Columbia","Canada",2020-02-18,Confirmed,5
+"British Columbia","Canada",2020-02-18,Deaths,0
+"British Columbia","Canada",2020-02-18,Recovered,0
+"British Columbia","Canada",2020-02-19,Confirmed,5
+"British Columbia","Canada",2020-02-19,Deaths,0
+"British Columbia","Canada",2020-02-19,Recovered,0
+"British Columbia","Canada",2020-02-20,Confirmed,5
+"British Columbia","Canada",2020-02-20,Deaths,0
+"British Columbia","Canada",2020-02-20,Recovered,0
+"British Columbia","Canada",2020-02-21,Confirmed,6
+"British Columbia","Canada",2020-02-21,Deaths,0
+"British Columbia","Canada",2020-02-21,Recovered,0
+"British Columbia","Canada",2020-02-22,Confirmed,6
+"British Columbia","Canada",2020-02-22,Deaths,0
+"British Columbia","Canada",2020-02-22,Recovered,0
+"British Columbia","Canada",2020-02-23,Confirmed,6
+"British Columbia","Canada",2020-02-23,Deaths,0
+"British Columbia","Canada",2020-02-23,Recovered,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-24,Confirmed,36
+"Unassigned Location (From Diamond Princess)","US",2020-02-24,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-24,Recovered,0
+"British Columbia","Canada",2020-02-24,Confirmed,6
+"British Columbia","Canada",2020-02-24,Deaths,0
+"British Columbia","Canada",2020-02-24,Recovered,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-25,Confirmed,36
+"Unassigned Location (From Diamond Princess)","US",2020-02-25,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-25,Recovered,0
+"British Columbia","Canada",2020-02-25,Confirmed,7
+"British Columbia","Canada",2020-02-25,Deaths,0
+"British Columbia","Canada",2020-02-25,Recovered,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-26,Confirmed,42
+"Unassigned Location (From Diamond Princess)","US",2020-02-26,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-26,Recovered,0
+"British Columbia","Canada",2020-02-26,Confirmed,7
+"British Columbia","Canada",2020-02-26,Deaths,0
+"British Columbia","Canada",2020-02-26,Recovered,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-27,Confirmed,42
+"Unassigned Location (From Diamond Princess)","US",2020-02-27,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-27,Recovered,0
+"British Columbia","Canada",2020-02-27,Confirmed,7
+"British Columbia","Canada",2020-02-27,Deaths,0
+"British Columbia","Canada",2020-02-27,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-02-28,Confirmed,44
+"Unassigned Location (From Diamond Princess)","US",2020-02-28,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-28,Recovered,0
+"British Columbia","Canada",2020-02-28,Confirmed,7
+"British Columbia","Canada",2020-02-28,Deaths,0
+"British Columbia","Canada",2020-02-28,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-02-29,Confirmed,44
+"Unassigned Location (From Diamond Princess)","US",2020-02-29,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-02-29,Recovered,0
+"British Columbia","Canada",2020-02-29,Confirmed,8
+"British Columbia","Canada",2020-02-29,Deaths,0
+"British Columbia","Canada",2020-02-29,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-01,Confirmed,44
+"Unassigned Location (From Diamond Princess)","US",2020-03-01,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-01,Recovered,0
+"British Columbia","Canada",2020-03-01,Confirmed,8
+"British Columbia","Canada",2020-03-01,Deaths,0
+"British Columbia","Canada",2020-03-01,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-02,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-02,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-02,Recovered,0
+"British Columbia","Canada",2020-03-02,Confirmed,8
+"British Columbia","Canada",2020-03-02,Deaths,0
+"British Columbia","Canada",2020-03-02,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-03,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-03,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-03,Recovered,0
+"British Columbia","Canada",2020-03-03,Confirmed,9
+"British Columbia","Canada",2020-03-03,Deaths,0
+"British Columbia","Canada",2020-03-03,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-04,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-04,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-04,Recovered,0
+"British Columbia","Canada",2020-03-04,Confirmed,12
+"British Columbia","Canada",2020-03-04,Deaths,0
+"British Columbia","Canada",2020-03-04,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-05,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-05,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-05,Recovered,0
+"British Columbia","Canada",2020-03-05,Confirmed,13
+"British Columbia","Canada",2020-03-05,Deaths,0
+"British Columbia","Canada",2020-03-05,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-06,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-06,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-06,Recovered,0
+"British Columbia","Canada",2020-03-06,Confirmed,21
+"British Columbia","Canada",2020-03-06,Deaths,0
+"British Columbia","Canada",2020-03-06,Recovered,3
+"Unassigned Location (From Diamond Princess)","US",2020-03-07,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-07,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-07,Recovered,0
+"British Columbia","Canada",2020-03-07,Confirmed,21
+"British Columbia","Canada",2020-03-07,Deaths,0
+"British Columbia","Canada",2020-03-07,Recovered,4
+"Grand Princess Cruise Ship","US",2020-03-07,Confirmed,21
+"Grand Princess Cruise Ship","US",2020-03-07,Deaths,0
+"Grand Princess Cruise Ship","US",2020-03-07,Recovered,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-08,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-08,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-08,Recovered,0
+"British Columbia","Canada",2020-03-08,Confirmed,27
+"British Columbia","Canada",2020-03-08,Deaths,0
+"British Columbia","Canada",2020-03-08,Recovered,4
+"Grand Princess Cruise Ship","US",2020-03-08,Confirmed,21
+"Grand Princess Cruise Ship","US",2020-03-08,Deaths,0
+"Grand Princess Cruise Ship","US",2020-03-08,Recovered,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-09,Confirmed,45
+"Unassigned Location (From Diamond Princess)","US",2020-03-09,Deaths,0
+"Unassigned Location (From Diamond Princess)","US",2020-03-09,Recovered,0
+"Ontario","Canada",2020-03-09,Confirmed,34
+"Ontario","Canada",2020-03-09,Deaths,0
+"Ontario","Canada",2020-03-09,Recovered,4
+"British Columbia","Canada",2020-03-09,Confirmed,32
+"British Columbia","Canada",2020-03-09,Deaths,1
+"British Columbia","Canada",2020-03-09,Recovered,4
+"Grand Princess Cruise Ship","US",2020-03-09,Confirmed,21
+"Grand Princess Cruise Ship","US",2020-03-09,Deaths,0
+"Grand Princess Cruise Ship","US",2020-03-09,Recovered,0
+"Alberta","Canada",2020-03-09,Confirmed,7
+"Alberta","Canada",2020-03-09,Deaths,0
+"Alberta","Canada",2020-03-09,Recovered,0
+"Quebec","Canada",2020-03-09,Confirmed,3
+"Quebec","Canada",2020-03-09,Deaths,0
+"Quebec","Canada",2020-03-09,Recovered,0
+"Washington","US",2020-03-10,Confirmed,267
+"Washington","US",2020-03-10,Deaths,23
+"Washington","US",2020-03-10,Recovered,1
+"New York","US",2020-03-10,Confirmed,173
+"New York","US",2020-03-10,Deaths,0
+"New York","US",2020-03-10,Recovered,0
+"California","US",2020-03-10,Confirmed,144
+"California","US",2020-03-10,Deaths,2
+"California","US",2020-03-10,Recovered,2
+"Massachusetts","US",2020-03-10,Confirmed,92
+"Massachusetts","US",2020-03-10,Deaths,0
+"Massachusetts","US",2020-03-10,Recovered,1
+"Diamond Princess","US",2020-03-10,Confirmed,46
+"Diamond Princess","US",2020-03-10,Deaths,0
+"Diamond Princess","US",2020-03-10,Recovered,0
+"Ontario","Canada",2020-03-10,Confirmed,36
+"Ontario","Canada",2020-03-10,Deaths,0
+"Ontario","Canada",2020-03-10,Recovered,4
+"British Columbia","Canada",2020-03-10,Confirmed,32
+"British Columbia","Canada",2020-03-10,Deaths,1
+"British Columbia","Canada",2020-03-10,Recovered,4
+"Georgia","US",2020-03-10,Confirmed,17
+"Georgia","US",2020-03-10,Deaths,0
+"Georgia","US",2020-03-10,Recovered,0
+"Colorado","US",2020-03-10,Confirmed,15
+"Colorado","US",2020-03-10,Deaths,0
+"Colorado","US",2020-03-10,Recovered,0
+"Florida","US",2020-03-10,Confirmed,15
+"Florida","US",2020-03-10,Deaths,2
+"Florida","US",2020-03-10,Recovered,0
+"New Jersey","US",2020-03-10,Confirmed,15
+"New Jersey","US",2020-03-10,Deaths,1
+"New Jersey","US",2020-03-10,Recovered,0
+"Oregon","US",2020-03-10,Confirmed,15
+"Oregon","US",2020-03-10,Deaths,0
+"Oregon","US",2020-03-10,Recovered,0
+"Texas","US",2020-03-10,Confirmed,13
+"Texas","US",2020-03-10,Deaths,0
+"Texas","US",2020-03-10,Recovered,0
+"Illinois","US",2020-03-10,Confirmed,12
+"Illinois","US",2020-03-10,Deaths,0
+"Illinois","US",2020-03-10,Recovered,2
+"Pennsylvania","US",2020-03-10,Confirmed,12
+"Pennsylvania","US",2020-03-10,Deaths,0
+"Pennsylvania","US",2020-03-10,Recovered,0
+"Iowa","US",2020-03-10,Confirmed,8
+"Iowa","US",2020-03-10,Deaths,0
+"Iowa","US",2020-03-10,Recovered,0
+"Maryland","US",2020-03-10,Confirmed,8
+"Maryland","US",2020-03-10,Deaths,0
+"Maryland","US",2020-03-10,Recovered,0
+"Alberta","Canada",2020-03-10,Confirmed,7
+"Alberta","Canada",2020-03-10,Deaths,0
+"Alberta","Canada",2020-03-10,Recovered,0
+"North Carolina","US",2020-03-10,Confirmed,7
+"North Carolina","US",2020-03-10,Deaths,0
+"North Carolina","US",2020-03-10,Recovered,0
+"South Carolina","US",2020-03-10,Confirmed,7
+"South Carolina","US",2020-03-10,Deaths,0
+"South Carolina","US",2020-03-10,Recovered,0
+"Tennessee","US",2020-03-10,Confirmed,7
+"Tennessee","US",2020-03-10,Deaths,0
+"Tennessee","US",2020-03-10,Recovered,0
+"Virginia","US",2020-03-10,Confirmed,7
+"Virginia","US",2020-03-10,Deaths,0
+"Virginia","US",2020-03-10,Recovered,0
+"Arizona","US",2020-03-10,Confirmed,6
+"Arizona","US",2020-03-10,Deaths,0
+"Arizona","US",2020-03-10,Recovered,1
+"Indiana","US",2020-03-10,Confirmed,6
+"Indiana","US",2020-03-10,Deaths,0
+"Indiana","US",2020-03-10,Recovered,0
+"Kentucky","US",2020-03-10,Confirmed,6
+"Kentucky","US",2020-03-10,Deaths,0
+"Kentucky","US",2020-03-10,Recovered,0
+"District of Columbia","US",2020-03-10,Confirmed,5
+"District of Columbia","US",2020-03-10,Deaths,0
+"District of Columbia","US",2020-03-10,Recovered,0
+"Quebec","Canada",2020-03-10,Confirmed,4
+"Quebec","Canada",2020-03-10,Deaths,0
+"Quebec","Canada",2020-03-10,Recovered,0
+"Nevada","US",2020-03-10,Confirmed,4
+"Nevada","US",2020-03-10,Deaths,0
+"Nevada","US",2020-03-10,Recovered,0
+"New Hampshire","US",2020-03-10,Confirmed,4
+"New Hampshire","US",2020-03-10,Deaths,0
+"New Hampshire","US",2020-03-10,Recovered,0
+"Minnesota","US",2020-03-10,Confirmed,3
+"Minnesota","US",2020-03-10,Deaths,0
+"Minnesota","US",2020-03-10,Recovered,0
+"Nebraska","US",2020-03-10,Confirmed,3
+"Nebraska","US",2020-03-10,Deaths,0
+"Nebraska","US",2020-03-10,Recovered,0
+"Ohio","US",2020-03-10,Confirmed,3
+"Ohio","US",2020-03-10,Deaths,0
+"Ohio","US",2020-03-10,Recovered,0
+"Rhode Island","US",2020-03-10,Confirmed,3
+"Rhode Island","US",2020-03-10,Deaths,0
+"Rhode Island","US",2020-03-10,Recovered,0
+"Wisconsin","US",2020-03-10,Confirmed,3
+"Wisconsin","US",2020-03-10,Deaths,0
+"Wisconsin","US",2020-03-10,Recovered,1
+"Connecticut","US",2020-03-10,Confirmed,2
+"Connecticut","US",2020-03-10,Deaths,0
+"Connecticut","US",2020-03-10,Recovered,0
+"Hawaii","US",2020-03-10,Confirmed,2
+"Hawaii","US",2020-03-10,Deaths,0
+"Hawaii","US",2020-03-10,Recovered,0
+"Oklahoma","US",2020-03-10,Confirmed,2
+"Oklahoma","US",2020-03-10,Deaths,0
+"Oklahoma","US",2020-03-10,Recovered,0
+"Utah","US",2020-03-10,Confirmed,2
+"Utah","US",2020-03-10,Deaths,0
+"Utah","US",2020-03-10,Recovered,0
+"Kansas","US",2020-03-10,Confirmed,1
+"Kansas","US",2020-03-10,Deaths,0
+"Kansas","US",2020-03-10,Recovered,0
+"Louisiana","US",2020-03-10,Confirmed,1
+"Louisiana","US",2020-03-10,Deaths,0
+"Louisiana","US",2020-03-10,Recovered,0
+"Missouri","US",2020-03-10,Confirmed,1
+"Missouri","US",2020-03-10,Deaths,0
+"Missouri","US",2020-03-10,Recovered,0
+"Vermont","US",2020-03-10,Confirmed,1
+"Vermont","US",2020-03-10,Deaths,0
+"Vermont","US",2020-03-10,Recovered,0
+"Alaska","US",2020-03-10,Confirmed,0
+"Alaska","US",2020-03-10,Deaths,0
+"Alaska","US",2020-03-10,Recovered,0
+"Arkansas","US",2020-03-10,Confirmed,0
+"Arkansas","US",2020-03-10,Deaths,0
+"Arkansas","US",2020-03-10,Recovered,0
+"Delaware","US",2020-03-10,Confirmed,0
+"Delaware","US",2020-03-10,Deaths,0
+"Delaware","US",2020-03-10,Recovered,0
+"Idaho","US",2020-03-10,Confirmed,0
+"Idaho","US",2020-03-10,Deaths,0
+"Idaho","US",2020-03-10,Recovered,0
+"Maine","US",2020-03-10,Confirmed,0
+"Maine","US",2020-03-10,Deaths,0
+"Maine","US",2020-03-10,Recovered,0
+"Michigan","US",2020-03-10,Confirmed,0
+"Michigan","US",2020-03-10,Deaths,0
+"Michigan","US",2020-03-10,Recovered,0
+"Mississippi","US",2020-03-10,Confirmed,0
+"Mississippi","US",2020-03-10,Deaths,0
+"Mississippi","US",2020-03-10,Recovered,0
+"Montana","US",2020-03-10,Confirmed,0
+"Montana","US",2020-03-10,Deaths,0
+"Montana","US",2020-03-10,Recovered,0
+"New Mexico","US",2020-03-10,Confirmed,0
+"New Mexico","US",2020-03-10,Deaths,0
+"New Mexico","US",2020-03-10,Recovered,0
+"North Dakota","US",2020-03-10,Confirmed,0
+"North Dakota","US",2020-03-10,Deaths,0
+"North Dakota","US",2020-03-10,Recovered,0
+"South Dakota","US",2020-03-10,Confirmed,0
+"South Dakota","US",2020-03-10,Deaths,0
+"South Dakota","US",2020-03-10,Recovered,0
+"West Virginia","US",2020-03-10,Confirmed,0
+"West Virginia","US",2020-03-10,Deaths,0
+"West Virginia","US",2020-03-10,Recovered,0
+"Wyoming","US",2020-03-10,Confirmed,0
+"Wyoming","US",2020-03-10,Deaths,0
+"Wyoming","US",2020-03-10,Recovered,0
+"Washington","US",2020-03-11,Confirmed,366
+"Washington","US",2020-03-11,Deaths,29
+"Washington","US",2020-03-11,Recovered,1
+"New York","US",2020-03-11,Confirmed,220
+"New York","US",2020-03-11,Deaths,0
+"New York","US",2020-03-11,Recovered,0
+"California","US",2020-03-11,Confirmed,177
+"California","US",2020-03-11,Deaths,3
+"California","US",2020-03-11,Recovered,2
+"Massachusetts","US",2020-03-11,Confirmed,95
+"Massachusetts","US",2020-03-11,Deaths,0
+"Massachusetts","US",2020-03-11,Recovered,1
+"Diamond Princess","US",2020-03-11,Confirmed,46
+"Diamond Princess","US",2020-03-11,Deaths,0
+"Diamond Princess","US",2020-03-11,Recovered,0
+"Ontario","Canada",2020-03-11,Confirmed,41
+"Ontario","Canada",2020-03-11,Deaths,0
+"Ontario","Canada",2020-03-11,Recovered,4
+"British Columbia","Canada",2020-03-11,Confirmed,39
+"British Columbia","Canada",2020-03-11,Deaths,1
+"British Columbia","Canada",2020-03-11,Recovered,4
+"Colorado","US",2020-03-11,Confirmed,34
+"Colorado","US",2020-03-11,Deaths,0
+"Colorado","US",2020-03-11,Recovered,0
+"Florida","US",2020-03-11,Confirmed,28
+"Florida","US",2020-03-11,Deaths,2
+"Florida","US",2020-03-11,Recovered,0
+"Illinois","US",2020-03-11,Confirmed,25
+"Illinois","US",2020-03-11,Deaths,0
+"Illinois","US",2020-03-11,Recovered,2
+"Georgia","US",2020-03-11,Confirmed,23
+"Georgia","US",2020-03-11,Deaths,0
+"Georgia","US",2020-03-11,Recovered,0
+"New Jersey","US",2020-03-11,Confirmed,23
+"New Jersey","US",2020-03-11,Deaths,1
+"New Jersey","US",2020-03-11,Recovered,0
+"Texas","US",2020-03-11,Confirmed,21
+"Texas","US",2020-03-11,Deaths,0
+"Texas","US",2020-03-11,Recovered,0
+"Alberta","Canada",2020-03-11,Confirmed,19
+"Alberta","Canada",2020-03-11,Deaths,0
+"Alberta","Canada",2020-03-11,Recovered,0
+"Oregon","US",2020-03-11,Confirmed,19
+"Oregon","US",2020-03-11,Deaths,0
+"Oregon","US",2020-03-11,Recovered,0
+"Pennsylvania","US",2020-03-11,Confirmed,16
+"Pennsylvania","US",2020-03-11,Deaths,0
+"Pennsylvania","US",2020-03-11,Recovered,0
+"Iowa","US",2020-03-11,Confirmed,13
+"Iowa","US",2020-03-11,Deaths,0
+"Iowa","US",2020-03-11,Recovered,0
+"Indiana","US",2020-03-11,Confirmed,11
+"Indiana","US",2020-03-11,Deaths,0
+"Indiana","US",2020-03-11,Recovered,0
+"District of Columbia","US",2020-03-11,Confirmed,10
+"District of Columbia","US",2020-03-11,Deaths,0
+"District of Columbia","US",2020-03-11,Recovered,0
+"South Carolina","US",2020-03-11,Confirmed,10
+"South Carolina","US",2020-03-11,Deaths,0
+"South Carolina","US",2020-03-11,Recovered,0
+"Arizona","US",2020-03-11,Confirmed,9
+"Arizona","US",2020-03-11,Deaths,0
+"Arizona","US",2020-03-11,Recovered,1
+"Maryland","US",2020-03-11,Confirmed,9
+"Maryland","US",2020-03-11,Deaths,0
+"Maryland","US",2020-03-11,Recovered,0
+"Tennessee","US",2020-03-11,Confirmed,9
+"Tennessee","US",2020-03-11,Deaths,0
+"Tennessee","US",2020-03-11,Recovered,0
+"Virginia","US",2020-03-11,Confirmed,9
+"Virginia","US",2020-03-11,Deaths,0
+"Virginia","US",2020-03-11,Recovered,0
+"Quebec","Canada",2020-03-11,Confirmed,8
+"Quebec","Canada",2020-03-11,Deaths,0
+"Quebec","Canada",2020-03-11,Recovered,0
+"Kentucky","US",2020-03-11,Confirmed,8
+"Kentucky","US",2020-03-11,Deaths,0
+"Kentucky","US",2020-03-11,Recovered,0
+"South Dakota","US",2020-03-11,Confirmed,8
+"South Dakota","US",2020-03-11,Deaths,1
+"South Dakota","US",2020-03-11,Recovered,0
+"Nevada","US",2020-03-11,Confirmed,7
+"Nevada","US",2020-03-11,Deaths,0
+"Nevada","US",2020-03-11,Recovered,0
+"North Carolina","US",2020-03-11,Confirmed,7
+"North Carolina","US",2020-03-11,Deaths,0
+"North Carolina","US",2020-03-11,Recovered,0
+"Louisiana","US",2020-03-11,Confirmed,6
+"Louisiana","US",2020-03-11,Deaths,0
+"Louisiana","US",2020-03-11,Recovered,0
+"Wisconsin","US",2020-03-11,Confirmed,6
+"Wisconsin","US",2020-03-11,Deaths,0
+"Wisconsin","US",2020-03-11,Recovered,1
+"Minnesota","US",2020-03-11,Confirmed,5
+"Minnesota","US",2020-03-11,Deaths,0
+"Minnesota","US",2020-03-11,Recovered,0
+"Nebraska","US",2020-03-11,Confirmed,5
+"Nebraska","US",2020-03-11,Deaths,0
+"Nebraska","US",2020-03-11,Recovered,0
+"New Hampshire","US",2020-03-11,Confirmed,5
+"New Hampshire","US",2020-03-11,Deaths,0
+"New Hampshire","US",2020-03-11,Recovered,0
+"Rhode Island","US",2020-03-11,Confirmed,5
+"Rhode Island","US",2020-03-11,Deaths,0
+"Rhode Island","US",2020-03-11,Recovered,0
+"Ohio","US",2020-03-11,Confirmed,4
+"Ohio","US",2020-03-11,Deaths,0
+"Ohio","US",2020-03-11,Recovered,0
+"Connecticut","US",2020-03-11,Confirmed,3
+"Connecticut","US",2020-03-11,Deaths,0
+"Connecticut","US",2020-03-11,Recovered,0
+"New Mexico","US",2020-03-11,Confirmed,3
+"New Mexico","US",2020-03-11,Deaths,0
+"New Mexico","US",2020-03-11,Recovered,0
+"Utah","US",2020-03-11,Confirmed,3
+"Utah","US",2020-03-11,Deaths,0
+"Utah","US",2020-03-11,Recovered,0
+"Hawaii","US",2020-03-11,Confirmed,2
+"Hawaii","US",2020-03-11,Deaths,0
+"Hawaii","US",2020-03-11,Recovered,0
+"Michigan","US",2020-03-11,Confirmed,2
+"Michigan","US",2020-03-11,Deaths,0
+"Michigan","US",2020-03-11,Recovered,0
+"Oklahoma","US",2020-03-11,Confirmed,2
+"Oklahoma","US",2020-03-11,Deaths,0
+"Oklahoma","US",2020-03-11,Recovered,0
+"New Brunswick","Canada",2020-03-11,Confirmed,1
+"New Brunswick","Canada",2020-03-11,Deaths,0
+"New Brunswick","Canada",2020-03-11,Recovered,0
+"Arkansas","US",2020-03-11,Confirmed,1
+"Arkansas","US",2020-03-11,Deaths,0
+"Arkansas","US",2020-03-11,Recovered,0
+"Delaware","US",2020-03-11,Confirmed,1
+"Delaware","US",2020-03-11,Deaths,0
+"Delaware","US",2020-03-11,Recovered,0
+"Kansas","US",2020-03-11,Confirmed,1
+"Kansas","US",2020-03-11,Deaths,0
+"Kansas","US",2020-03-11,Recovered,0
+"Missouri","US",2020-03-11,Confirmed,1
+"Missouri","US",2020-03-11,Deaths,0
+"Missouri","US",2020-03-11,Recovered,0
+"Montana","US",2020-03-11,Confirmed,1
+"Montana","US",2020-03-11,Deaths,0
+"Montana","US",2020-03-11,Recovered,0
+"Vermont","US",2020-03-11,Confirmed,1
+"Vermont","US",2020-03-11,Deaths,0
+"Vermont","US",2020-03-11,Recovered,0
+"Alaska","US",2020-03-11,Confirmed,0
+"Alaska","US",2020-03-11,Deaths,0
+"Alaska","US",2020-03-11,Recovered,0
+"Idaho","US",2020-03-11,Confirmed,0
+"Idaho","US",2020-03-11,Deaths,0
+"Idaho","US",2020-03-11,Recovered,0
+"Maine","US",2020-03-11,Confirmed,0
+"Maine","US",2020-03-11,Deaths,0
+"Maine","US",2020-03-11,Recovered,0
+"Mississippi","US",2020-03-11,Confirmed,0
+"Mississippi","US",2020-03-11,Deaths,0
+"Mississippi","US",2020-03-11,Recovered,0
+"North Dakota","US",2020-03-11,Confirmed,0
+"North Dakota","US",2020-03-11,Deaths,0
+"North Dakota","US",2020-03-11,Recovered,0
+"West Virginia","US",2020-03-11,Confirmed,0
+"West Virginia","US",2020-03-11,Deaths,0
+"West Virginia","US",2020-03-11,Recovered,0
+"Wyoming","US",2020-03-11,Confirmed,0
+"Wyoming","US",2020-03-11,Deaths,0
+"Wyoming","US",2020-03-11,Recovered,0
+"Washington","US",2020-03-12,Confirmed,442
+"Washington","US",2020-03-12,Deaths,31
+"Washington","US",2020-03-12,Recovered,1
+"New York","US",2020-03-12,Confirmed,328
+"New York","US",2020-03-12,Deaths,0
+"New York","US",2020-03-12,Recovered,0
+"California","US",2020-03-12,Confirmed,221
+"California","US",2020-03-12,Deaths,4
+"California","US",2020-03-12,Recovered,6
+"Massachusetts","US",2020-03-12,Confirmed,108
+"Massachusetts","US",2020-03-12,Deaths,0
+"Massachusetts","US",2020-03-12,Recovered,1
+"British Columbia","Canada",2020-03-12,Confirmed,46
+"British Columbia","Canada",2020-03-12,Deaths,1
+"British Columbia","Canada",2020-03-12,Recovered,4
+"Diamond Princess","US",2020-03-12,Confirmed,46
+"Diamond Princess","US",2020-03-12,Deaths,0
+"Diamond Princess","US",2020-03-12,Recovered,0
+"Colorado","US",2020-03-12,Confirmed,45
+"Colorado","US",2020-03-12,Deaths,0
+"Colorado","US",2020-03-12,Recovered,0
+"Ontario","Canada",2020-03-12,Confirmed,42
+"Ontario","Canada",2020-03-12,Deaths,0
+"Ontario","Canada",2020-03-12,Recovered,4
+"Florida","US",2020-03-12,Confirmed,35
+"Florida","US",2020-03-12,Deaths,2
+"Florida","US",2020-03-12,Recovered,0
+"Illinois","US",2020-03-12,Confirmed,32
+"Illinois","US",2020-03-12,Deaths,0
+"Illinois","US",2020-03-12,Recovered,2
+"Georgia","US",2020-03-12,Confirmed,31
+"Georgia","US",2020-03-12,Deaths,1
+"Georgia","US",2020-03-12,Recovered,0
+"New Jersey","US",2020-03-12,Confirmed,29
+"New Jersey","US",2020-03-12,Deaths,1
+"New Jersey","US",2020-03-12,Recovered,0
+"Texas","US",2020-03-12,Confirmed,27
+"Texas","US",2020-03-12,Deaths,0
+"Texas","US",2020-03-12,Recovered,0
+"Oregon","US",2020-03-12,Confirmed,24
+"Oregon","US",2020-03-12,Deaths,0
+"Oregon","US",2020-03-12,Recovered,0
+"Pennsylvania","US",2020-03-12,Confirmed,22
+"Pennsylvania","US",2020-03-12,Deaths,0
+"Pennsylvania","US",2020-03-12,Recovered,0
+"Alberta","Canada",2020-03-12,Confirmed,19
+"Alberta","Canada",2020-03-12,Deaths,0
+"Alberta","Canada",2020-03-12,Recovered,0
+"Louisiana","US",2020-03-12,Confirmed,19
+"Louisiana","US",2020-03-12,Deaths,0
+"Louisiana","US",2020-03-12,Recovered,0
+"Tennessee","US",2020-03-12,Confirmed,18
+"Tennessee","US",2020-03-12,Deaths,0
+"Tennessee","US",2020-03-12,Recovered,0
+"Virginia","US",2020-03-12,Confirmed,17
+"Virginia","US",2020-03-12,Deaths,0
+"Virginia","US",2020-03-12,Recovered,0
+"Iowa","US",2020-03-12,Confirmed,16
+"Iowa","US",2020-03-12,Deaths,0
+"Iowa","US",2020-03-12,Recovered,0
+"North Carolina","US",2020-03-12,Confirmed,15
+"North Carolina","US",2020-03-12,Deaths,0
+"North Carolina","US",2020-03-12,Recovered,0
+"Nevada","US",2020-03-12,Confirmed,14
+"Nevada","US",2020-03-12,Deaths,0
+"Nevada","US",2020-03-12,Recovered,0
+"Indiana","US",2020-03-12,Confirmed,13
+"Indiana","US",2020-03-12,Deaths,0
+"Indiana","US",2020-03-12,Recovered,0
+"Maryland","US",2020-03-12,Confirmed,12
+"Maryland","US",2020-03-12,Deaths,0
+"Maryland","US",2020-03-12,Recovered,0
+"South Carolina","US",2020-03-12,Confirmed,12
+"South Carolina","US",2020-03-12,Deaths,0
+"South Carolina","US",2020-03-12,Recovered,0
+"District of Columbia","US",2020-03-12,Confirmed,10
+"District of Columbia","US",2020-03-12,Deaths,0
+"District of Columbia","US",2020-03-12,Recovered,0
+"Kentucky","US",2020-03-12,Confirmed,10
+"Kentucky","US",2020-03-12,Deaths,0
+"Kentucky","US",2020-03-12,Recovered,0
+"Nebraska","US",2020-03-12,Confirmed,10
+"Nebraska","US",2020-03-12,Deaths,0
+"Nebraska","US",2020-03-12,Recovered,0
+"Quebec","Canada",2020-03-12,Confirmed,9
+"Quebec","Canada",2020-03-12,Deaths,0
+"Quebec","Canada",2020-03-12,Recovered,0
+"Arizona","US",2020-03-12,Confirmed,9
+"Arizona","US",2020-03-12,Deaths,0
+"Arizona","US",2020-03-12,Recovered,1
+"Minnesota","US",2020-03-12,Confirmed,9
+"Minnesota","US",2020-03-12,Deaths,0
+"Minnesota","US",2020-03-12,Recovered,0
+"South Dakota","US",2020-03-12,Confirmed,8
+"South Dakota","US",2020-03-12,Deaths,1
+"South Dakota","US",2020-03-12,Recovered,0
+"Wisconsin","US",2020-03-12,Confirmed,8
+"Wisconsin","US",2020-03-12,Deaths,0
+"Wisconsin","US",2020-03-12,Recovered,1
+"Arkansas","US",2020-03-12,Confirmed,6
+"Arkansas","US",2020-03-12,Deaths,0
+"Arkansas","US",2020-03-12,Recovered,0
+"New Hampshire","US",2020-03-12,Confirmed,6
+"New Hampshire","US",2020-03-12,Deaths,0
+"New Hampshire","US",2020-03-12,Recovered,0
+"Connecticut","US",2020-03-12,Confirmed,5
+"Connecticut","US",2020-03-12,Deaths,0
+"Connecticut","US",2020-03-12,Recovered,0
+"New Mexico","US",2020-03-12,Confirmed,5
+"New Mexico","US",2020-03-12,Deaths,0
+"New Mexico","US",2020-03-12,Recovered,0
+"Ohio","US",2020-03-12,Confirmed,5
+"Ohio","US",2020-03-12,Deaths,0
+"Ohio","US",2020-03-12,Recovered,0
+"Rhode Island","US",2020-03-12,Confirmed,5
+"Rhode Island","US",2020-03-12,Deaths,0
+"Rhode Island","US",2020-03-12,Recovered,0
+"Utah","US",2020-03-12,Confirmed,5
+"Utah","US",2020-03-12,Deaths,0
+"Utah","US",2020-03-12,Recovered,0
+"Hawaii","US",2020-03-12,Confirmed,2
+"Hawaii","US",2020-03-12,Deaths,0
+"Hawaii","US",2020-03-12,Recovered,0
+"Michigan","US",2020-03-12,Confirmed,2
+"Michigan","US",2020-03-12,Deaths,0
+"Michigan","US",2020-03-12,Recovered,0
+"Oklahoma","US",2020-03-12,Confirmed,2
+"Oklahoma","US",2020-03-12,Deaths,0
+"Oklahoma","US",2020-03-12,Recovered,0
+"Vermont","US",2020-03-12,Confirmed,2
+"Vermont","US",2020-03-12,Deaths,0
+"Vermont","US",2020-03-12,Recovered,0
+"New Brunswick","Canada",2020-03-12,Confirmed,1
+"New Brunswick","Canada",2020-03-12,Deaths,0
+"New Brunswick","Canada",2020-03-12,Recovered,0
+"Delaware","US",2020-03-12,Confirmed,1
+"Delaware","US",2020-03-12,Deaths,0
+"Delaware","US",2020-03-12,Recovered,0
+"Kansas","US",2020-03-12,Confirmed,1
+"Kansas","US",2020-03-12,Deaths,0
+"Kansas","US",2020-03-12,Recovered,0
+"Mississippi","US",2020-03-12,Confirmed,1
+"Mississippi","US",2020-03-12,Deaths,0
+"Mississippi","US",2020-03-12,Recovered,0
+"Missouri","US",2020-03-12,Confirmed,1
+"Missouri","US",2020-03-12,Deaths,0
+"Missouri","US",2020-03-12,Recovered,0
+"Montana","US",2020-03-12,Confirmed,1
+"Montana","US",2020-03-12,Deaths,0
+"Montana","US",2020-03-12,Recovered,0
+"North Dakota","US",2020-03-12,Confirmed,1
+"North Dakota","US",2020-03-12,Deaths,0
+"North Dakota","US",2020-03-12,Recovered,0
+"Wyoming","US",2020-03-12,Confirmed,1
+"Wyoming","US",2020-03-12,Deaths,0
+"Wyoming","US",2020-03-12,Recovered,0
+"Alaska","US",2020-03-12,Confirmed,0
+"Alaska","US",2020-03-12,Deaths,0
+"Alaska","US",2020-03-12,Recovered,0
+"Idaho","US",2020-03-12,Confirmed,0
+"Idaho","US",2020-03-12,Deaths,0
+"Idaho","US",2020-03-12,Recovered,0
+"Maine","US",2020-03-12,Confirmed,0
+"Maine","US",2020-03-12,Deaths,0
+"Maine","US",2020-03-12,Recovered,0
+"West Virginia","US",2020-03-12,Confirmed,0
+"West Virginia","US",2020-03-12,Deaths,0
+"West Virginia","US",2020-03-12,Recovered,0
+"British Columbia","Canada",2020-03-13,Confirmed,64
+"British Columbia","Canada",2020-03-13,Deaths,1
+"British Columbia","Canada",2020-03-13,Recovered,4
+"Ontario","Canada",2020-03-13,Confirmed,74
+"Ontario","Canada",2020-03-13,Deaths,0
+"Ontario","Canada",2020-03-13,Recovered,4
+"Diamond Princess","US",2020-03-13,Confirmed,46
+"Diamond Princess","US",2020-03-13,Deaths,0
+"Diamond Princess","US",2020-03-13,Recovered,0
+"New Brunswick","Canada",2020-03-13,Confirmed,1
+"New Brunswick","Canada",2020-03-13,Deaths,0
+"New Brunswick","Canada",2020-03-13,Recovered,0
+"Quebec","Canada",2020-03-13,Confirmed,17
+"Quebec","Canada",2020-03-13,Deaths,0
+"Quebec","Canada",2020-03-13,Recovered,0
+"Manitoba","Canada",2020-03-13,Confirmed,4
+"Manitoba","Canada",2020-03-13,Deaths,0
+"Manitoba","Canada",2020-03-13,Recovered,0
+"Saskatchewan","Canada",2020-03-13,Confirmed,2
+"Saskatchewan","Canada",2020-03-13,Deaths,0
+"Saskatchewan","Canada",2020-03-13,Recovered,0
+"Alabama","US",2020-03-13,Confirmed,5
+"Alabama","US",2020-03-13,Deaths,0
+"Alabama","US",2020-03-13,Recovered,0
+"Alberta","Canada",2020-03-13,Confirmed,29
+"Alberta","Canada",2020-03-13,Deaths,0
+"Alberta","Canada",2020-03-13,Recovered,0
+"Alaska","US",2020-03-13,Confirmed,1
+"Alaska","US",2020-03-13,Deaths,0
+"Alaska","US",2020-03-13,Recovered,0
+"Arizona","US",2020-03-13,Confirmed,9
+"Arizona","US",2020-03-13,Deaths,0
+"Arizona","US",2020-03-13,Recovered,1
+"Arkansas","US",2020-03-13,Confirmed,6
+"Arkansas","US",2020-03-13,Deaths,0
+"Arkansas","US",2020-03-13,Recovered,0
+"California","US",2020-03-13,Confirmed,282
+"California","US",2020-03-13,Deaths,4
+"California","US",2020-03-13,Recovered,6
+"Colorado","US",2020-03-13,Confirmed,49
+"Colorado","US",2020-03-13,Deaths,0
+"Colorado","US",2020-03-13,Recovered,0
+"Connecticut","US",2020-03-13,Confirmed,11
+"Connecticut","US",2020-03-13,Deaths,0
+"Connecticut","US",2020-03-13,Recovered,0
+"Delaware","US",2020-03-13,Confirmed,4
+"Delaware","US",2020-03-13,Deaths,0
+"Delaware","US",2020-03-13,Recovered,0
+"District of Columbia","US",2020-03-13,Confirmed,10
+"District of Columbia","US",2020-03-13,Deaths,0
+"District of Columbia","US",2020-03-13,Recovered,0
+"Florida","US",2020-03-13,Confirmed,50
+"Florida","US",2020-03-13,Deaths,2
+"Florida","US",2020-03-13,Recovered,0
+"Georgia","US",2020-03-13,Confirmed,42
+"Georgia","US",2020-03-13,Deaths,1
+"Georgia","US",2020-03-13,Recovered,0
+"Hawaii","US",2020-03-13,Confirmed,2
+"Hawaii","US",2020-03-13,Deaths,0
+"Hawaii","US",2020-03-13,Recovered,0
+"Idaho","US",2020-03-13,Confirmed,1
+"Idaho","US",2020-03-13,Deaths,0
+"Idaho","US",2020-03-13,Recovered,0
+"Illinois","US",2020-03-13,Confirmed,46
+"Illinois","US",2020-03-13,Deaths,0
+"Illinois","US",2020-03-13,Recovered,2
+"Indiana","US",2020-03-13,Confirmed,13
+"Indiana","US",2020-03-13,Deaths,0
+"Indiana","US",2020-03-13,Recovered,0
+"Iowa","US",2020-03-13,Confirmed,17
+"Iowa","US",2020-03-13,Deaths,0
+"Iowa","US",2020-03-13,Recovered,0
+"Kansas","US",2020-03-13,Confirmed,5
+"Kansas","US",2020-03-13,Deaths,1
+"Kansas","US",2020-03-13,Recovered,0
+"Kentucky","US",2020-03-13,Confirmed,14
+"Kentucky","US",2020-03-13,Deaths,0
+"Kentucky","US",2020-03-13,Recovered,0
+"Louisiana","US",2020-03-13,Confirmed,36
+"Louisiana","US",2020-03-13,Deaths,0
+"Louisiana","US",2020-03-13,Recovered,0
+"Maine","US",2020-03-13,Confirmed,1
+"Maine","US",2020-03-13,Deaths,0
+"Maine","US",2020-03-13,Recovered,0
+"Maryland","US",2020-03-13,Confirmed,18
+"Maryland","US",2020-03-13,Deaths,0
+"Maryland","US",2020-03-13,Recovered,0
+"Massachusetts","US",2020-03-13,Confirmed,123
+"Massachusetts","US",2020-03-13,Deaths,0
+"Massachusetts","US",2020-03-13,Recovered,1
+"Michigan","US",2020-03-13,Confirmed,16
+"Michigan","US",2020-03-13,Deaths,0
+"Michigan","US",2020-03-13,Recovered,0
+"Minnesota","US",2020-03-13,Confirmed,14
+"Minnesota","US",2020-03-13,Deaths,0
+"Minnesota","US",2020-03-13,Recovered,0
+"Mississippi","US",2020-03-13,Confirmed,1
+"Mississippi","US",2020-03-13,Deaths,0
+"Mississippi","US",2020-03-13,Recovered,0
+"Missouri","US",2020-03-13,Confirmed,2
+"Missouri","US",2020-03-13,Deaths,0
+"Missouri","US",2020-03-13,Recovered,0
+"Montana","US",2020-03-13,Confirmed,1
+"Montana","US",2020-03-13,Deaths,0
+"Montana","US",2020-03-13,Recovered,0
+"Nebraska","US",2020-03-13,Confirmed,13
+"Nebraska","US",2020-03-13,Deaths,0
+"Nebraska","US",2020-03-13,Recovered,0
+"Nevada","US",2020-03-13,Confirmed,17
+"Nevada","US",2020-03-13,Deaths,0
+"Nevada","US",2020-03-13,Recovered,0
+"New Hampshire","US",2020-03-13,Confirmed,6
+"New Hampshire","US",2020-03-13,Deaths,0
+"New Hampshire","US",2020-03-13,Recovered,0
+"New Jersey","US",2020-03-13,Confirmed,29
+"New Jersey","US",2020-03-13,Deaths,1
+"New Jersey","US",2020-03-13,Recovered,0
+"New Mexico","US",2020-03-13,Confirmed,10
+"New Mexico","US",2020-03-13,Deaths,0
+"New Mexico","US",2020-03-13,Recovered,0
+"New York","US",2020-03-13,Confirmed,421
+"New York","US",2020-03-13,Deaths,0
+"New York","US",2020-03-13,Recovered,0
+"North Carolina","US",2020-03-13,Confirmed,17
+"North Carolina","US",2020-03-13,Deaths,0
+"North Carolina","US",2020-03-13,Recovered,0
+"North Dakota","US",2020-03-13,Confirmed,1
+"North Dakota","US",2020-03-13,Deaths,0
+"North Dakota","US",2020-03-13,Recovered,0
+"Ohio","US",2020-03-13,Confirmed,13
+"Ohio","US",2020-03-13,Deaths,0
+"Ohio","US",2020-03-13,Recovered,0
+"Oklahoma","US",2020-03-13,Confirmed,2
+"Oklahoma","US",2020-03-13,Deaths,0
+"Oklahoma","US",2020-03-13,Recovered,0
+"Oregon","US",2020-03-13,Confirmed,30
+"Oregon","US",2020-03-13,Deaths,0
+"Oregon","US",2020-03-13,Recovered,0
+"Pennsylvania","US",2020-03-13,Confirmed,41
+"Pennsylvania","US",2020-03-13,Deaths,0
+"Pennsylvania","US",2020-03-13,Recovered,0
+"Rhode Island","US",2020-03-13,Confirmed,14
+"Rhode Island","US",2020-03-13,Deaths,0
+"Rhode Island","US",2020-03-13,Recovered,0
+"South Carolina","US",2020-03-13,Confirmed,13
+"South Carolina","US",2020-03-13,Deaths,0
+"South Carolina","US",2020-03-13,Recovered,0
+"South Dakota","US",2020-03-13,Confirmed,8
+"South Dakota","US",2020-03-13,Deaths,1
+"South Dakota","US",2020-03-13,Recovered,0
+"Tennessee","US",2020-03-13,Confirmed,26
+"Tennessee","US",2020-03-13,Deaths,0
+"Tennessee","US",2020-03-13,Recovered,0
+"Texas","US",2020-03-13,Confirmed,43
+"Texas","US",2020-03-13,Deaths,0
+"Texas","US",2020-03-13,Recovered,0
+"Utah","US",2020-03-13,Confirmed,9
+"Utah","US",2020-03-13,Deaths,0
+"Utah","US",2020-03-13,Recovered,0
+"Vermont","US",2020-03-13,Confirmed,2
+"Vermont","US",2020-03-13,Deaths,0
+"Vermont","US",2020-03-13,Recovered,0
+"Virginia","US",2020-03-13,Confirmed,30
+"Virginia","US",2020-03-13,Deaths,0
+"Virginia","US",2020-03-13,Recovered,0
+"Washington","US",2020-03-13,Confirmed,568
+"Washington","US",2020-03-13,Deaths,37
+"Washington","US",2020-03-13,Recovered,1
+"West Virginia","US",2020-03-13,Confirmed,0
+"West Virginia","US",2020-03-13,Deaths,0
+"West Virginia","US",2020-03-13,Recovered,0
+"Wisconsin","US",2020-03-13,Confirmed,19
+"Wisconsin","US",2020-03-13,Deaths,0
+"Wisconsin","US",2020-03-13,Recovered,1
+"Wyoming","US",2020-03-13,Confirmed,1
+"Wyoming","US",2020-03-13,Deaths,0
+"Wyoming","US",2020-03-13,Recovered,0
+"Washington","US",2020-03-14,Confirmed,572
+"Washington","US",2020-03-14,Deaths,37
+"Washington","US",2020-03-14,Recovered,1
+"New York","US",2020-03-14,Confirmed,525
+"New York","US",2020-03-14,Deaths,2
+"New York","US",2020-03-14,Recovered,0
+"California","US",2020-03-14,Confirmed,340
+"California","US",2020-03-14,Deaths,5
+"California","US",2020-03-14,Recovered,6
+"Massachusetts","US",2020-03-14,Confirmed,138
+"Massachusetts","US",2020-03-14,Deaths,0
+"Massachusetts","US",2020-03-14,Recovered,1
+"Colorado","US",2020-03-14,Confirmed,101
+"Colorado","US",2020-03-14,Deaths,1
+"Colorado","US",2020-03-14,Recovered,0
+"Ontario","Canada",2020-03-14,Confirmed,79
+"Ontario","Canada",2020-03-14,Deaths,0
+"Ontario","Canada",2020-03-14,Recovered,4
+"Louisiana","US",2020-03-14,Confirmed,77
+"Louisiana","US",2020-03-14,Deaths,1
+"Louisiana","US",2020-03-14,Recovered,0
+"Florida","US",2020-03-14,Confirmed,76
+"Florida","US",2020-03-14,Deaths,3
+"Florida","US",2020-03-14,Recovered,0
+"New Jersey","US",2020-03-14,Confirmed,69
+"New Jersey","US",2020-03-14,Deaths,1
+"New Jersey","US",2020-03-14,Recovered,0
+"Georgia","US",2020-03-14,Confirmed,66
+"Georgia","US",2020-03-14,Deaths,1
+"Georgia","US",2020-03-14,Recovered,0
+"British Columbia","Canada",2020-03-14,Confirmed,64
+"British Columbia","Canada",2020-03-14,Deaths,1
+"British Columbia","Canada",2020-03-14,Recovered,4
+"Illinois","US",2020-03-14,Confirmed,64
+"Illinois","US",2020-03-14,Deaths,0
+"Illinois","US",2020-03-14,Recovered,2
+"Texas","US",2020-03-14,Confirmed,57
+"Texas","US",2020-03-14,Deaths,0
+"Texas","US",2020-03-14,Recovered,0
+"Pennsylvania","US",2020-03-14,Confirmed,47
+"Pennsylvania","US",2020-03-14,Deaths,0
+"Pennsylvania","US",2020-03-14,Recovered,0
+"Diamond Princess","US",2020-03-14,Confirmed,46
+"Diamond Princess","US",2020-03-14,Deaths,0
+"Diamond Princess","US",2020-03-14,Recovered,0
+"Virginia","US",2020-03-14,Confirmed,41
+"Virginia","US",2020-03-14,Deaths,1
+"Virginia","US",2020-03-14,Recovered,0
+"Oregon","US",2020-03-14,Confirmed,32
+"Oregon","US",2020-03-14,Deaths,0
+"Oregon","US",2020-03-14,Recovered,0
+"Tennessee","US",2020-03-14,Confirmed,32
+"Tennessee","US",2020-03-14,Deaths,0
+"Tennessee","US",2020-03-14,Recovered,0
+"Alberta","Canada",2020-03-14,Confirmed,29
+"Alberta","Canada",2020-03-14,Deaths,0
+"Alberta","Canada",2020-03-14,Recovered,0
+"Wisconsin","US",2020-03-14,Confirmed,27
+"Wisconsin","US",2020-03-14,Deaths,0
+"Wisconsin","US",2020-03-14,Recovered,1
+"Maryland","US",2020-03-14,Confirmed,26
+"Maryland","US",2020-03-14,Deaths,0
+"Maryland","US",2020-03-14,Recovered,0
+"Ohio","US",2020-03-14,Confirmed,26
+"Ohio","US",2020-03-14,Deaths,0
+"Ohio","US",2020-03-14,Recovered,0
+"Michigan","US",2020-03-14,Confirmed,25
+"Michigan","US",2020-03-14,Deaths,0
+"Michigan","US",2020-03-14,Recovered,0
+"North Carolina","US",2020-03-14,Confirmed,24
+"North Carolina","US",2020-03-14,Deaths,0
+"North Carolina","US",2020-03-14,Recovered,0
+"Connecticut","US",2020-03-14,Confirmed,22
+"Connecticut","US",2020-03-14,Deaths,0
+"Connecticut","US",2020-03-14,Recovered,0
+"Minnesota","US",2020-03-14,Confirmed,21
+"Minnesota","US",2020-03-14,Deaths,0
+"Minnesota","US",2020-03-14,Recovered,0
+"Nevada","US",2020-03-14,Confirmed,21
+"Nevada","US",2020-03-14,Deaths,0
+"Nevada","US",2020-03-14,Recovered,0
+"Rhode Island","US",2020-03-14,Confirmed,20
+"Rhode Island","US",2020-03-14,Deaths,0
+"Rhode Island","US",2020-03-14,Recovered,0
+"South Carolina","US",2020-03-14,Confirmed,19
+"South Carolina","US",2020-03-14,Deaths,0
+"South Carolina","US",2020-03-14,Recovered,0
+"Quebec","Canada",2020-03-14,Confirmed,17
+"Quebec","Canada",2020-03-14,Deaths,0
+"Quebec","Canada",2020-03-14,Recovered,0
+"Iowa","US",2020-03-14,Confirmed,17
+"Iowa","US",2020-03-14,Deaths,0
+"Iowa","US",2020-03-14,Recovered,0
+"Indiana","US",2020-03-14,Confirmed,16
+"Indiana","US",2020-03-14,Deaths,0
+"Indiana","US",2020-03-14,Recovered,0
+"Kentucky","US",2020-03-14,Confirmed,14
+"Kentucky","US",2020-03-14,Deaths,0
+"Kentucky","US",2020-03-14,Recovered,0
+"Nebraska","US",2020-03-14,Confirmed,14
+"Nebraska","US",2020-03-14,Deaths,0
+"Nebraska","US",2020-03-14,Recovered,0
+"Arizona","US",2020-03-14,Confirmed,12
+"Arizona","US",2020-03-14,Deaths,0
+"Arizona","US",2020-03-14,Recovered,1
+"Arkansas","US",2020-03-14,Confirmed,12
+"Arkansas","US",2020-03-14,Deaths,0
+"Arkansas","US",2020-03-14,Recovered,0
+"District of Columbia","US",2020-03-14,Confirmed,10
+"District of Columbia","US",2020-03-14,Deaths,0
+"District of Columbia","US",2020-03-14,Recovered,0
+"New Mexico","US",2020-03-14,Confirmed,10
+"New Mexico","US",2020-03-14,Deaths,0
+"New Mexico","US",2020-03-14,Recovered,0
+"Utah","US",2020-03-14,Confirmed,10
+"Utah","US",2020-03-14,Deaths,0
+"Utah","US",2020-03-14,Recovered,0
+"South Dakota","US",2020-03-14,Confirmed,9
+"South Dakota","US",2020-03-14,Deaths,1
+"South Dakota","US",2020-03-14,Recovered,0
+"Kansas","US",2020-03-14,Confirmed,8
+"Kansas","US",2020-03-14,Deaths,1
+"Kansas","US",2020-03-14,Recovered,0
+"New Hampshire","US",2020-03-14,Confirmed,7
+"New Hampshire","US",2020-03-14,Deaths,0
+"New Hampshire","US",2020-03-14,Recovered,0
+"Alabama","US",2020-03-14,Confirmed,6
+"Alabama","US",2020-03-14,Deaths,0
+"Alabama","US",2020-03-14,Recovered,0
+"Delaware","US",2020-03-14,Confirmed,6
+"Delaware","US",2020-03-14,Deaths,0
+"Delaware","US",2020-03-14,Recovered,0
+"Mississippi","US",2020-03-14,Confirmed,6
+"Mississippi","US",2020-03-14,Deaths,0
+"Mississippi","US",2020-03-14,Recovered,0
+"Montana","US",2020-03-14,Confirmed,5
+"Montana","US",2020-03-14,Deaths,0
+"Montana","US",2020-03-14,Recovered,0
+"Vermont","US",2020-03-14,Confirmed,5
+"Vermont","US",2020-03-14,Deaths,0
+"Vermont","US",2020-03-14,Recovered,0
+"Manitoba","Canada",2020-03-14,Confirmed,4
+"Manitoba","Canada",2020-03-14,Deaths,0
+"Manitoba","Canada",2020-03-14,Recovered,0
+"Hawaii","US",2020-03-14,Confirmed,4
+"Hawaii","US",2020-03-14,Deaths,0
+"Hawaii","US",2020-03-14,Recovered,0
+"Missouri","US",2020-03-14,Confirmed,4
+"Missouri","US",2020-03-14,Deaths,0
+"Missouri","US",2020-03-14,Recovered,0
+"Oklahoma","US",2020-03-14,Confirmed,4
+"Oklahoma","US",2020-03-14,Deaths,0
+"Oklahoma","US",2020-03-14,Recovered,0
+"Maine","US",2020-03-14,Confirmed,3
+"Maine","US",2020-03-14,Deaths,0
+"Maine","US",2020-03-14,Recovered,0
+"Puerto Rico","US",2020-03-14,Confirmed,3
+"Puerto Rico","US",2020-03-14,Deaths,0
+"Puerto Rico","US",2020-03-14,Recovered,0
+"Saskatchewan","Canada",2020-03-14,Confirmed,2
+"Saskatchewan","Canada",2020-03-14,Deaths,0
+"Saskatchewan","Canada",2020-03-14,Recovered,0
+"Idaho","US",2020-03-14,Confirmed,2
+"Idaho","US",2020-03-14,Deaths,0
+"Idaho","US",2020-03-14,Recovered,0
+"Wyoming","US",2020-03-14,Confirmed,2
+"Wyoming","US",2020-03-14,Deaths,0
+"Wyoming","US",2020-03-14,Recovered,0
+"New Brunswick","Canada",2020-03-14,Confirmed,1
+"New Brunswick","Canada",2020-03-14,Deaths,0
+"New Brunswick","Canada",2020-03-14,Recovered,0
+"North Dakota","US",2020-03-14,Confirmed,1
+"North Dakota","US",2020-03-14,Deaths,0
+"North Dakota","US",2020-03-14,Recovered,0
+"West Virginia","US",2020-03-14,Confirmed,0
+"West Virginia","US",2020-03-14,Deaths,0
+"West Virginia","US",2020-03-14,Recovered,0
+"New York","US",2020-03-15,Confirmed,732
+"New York","US",2020-03-15,Deaths,3
+"New York","US",2020-03-15,Recovered,0
+"Washington","US",2020-03-15,Confirmed,643
+"Washington","US",2020-03-15,Deaths,40
+"Washington","US",2020-03-15,Recovered,1
+"California","US",2020-03-15,Confirmed,426
+"California","US",2020-03-15,Deaths,6
+"California","US",2020-03-15,Recovered,6
+"Massachusetts","US",2020-03-15,Confirmed,164
+"Massachusetts","US",2020-03-15,Deaths,0
+"Massachusetts","US",2020-03-15,Recovered,1
+"Florida","US",2020-03-15,Confirmed,115
+"Florida","US",2020-03-15,Deaths,4
+"Florida","US",2020-03-15,Recovered,0
+"Ontario","Canada",2020-03-15,Confirmed,104
+"Ontario","Canada",2020-03-15,Deaths,0
+"Ontario","Canada",2020-03-15,Recovered,4
+"Colorado","US",2020-03-15,Confirmed,131
+"Colorado","US",2020-03-15,Deaths,1
+"Colorado","US",2020-03-15,Recovered,0
+"Georgia","US",2020-03-15,Confirmed,99
+"Georgia","US",2020-03-15,Deaths,1
+"Georgia","US",2020-03-15,Recovered,0
+"Louisiana","US",2020-03-15,Confirmed,91
+"Louisiana","US",2020-03-15,Deaths,2
+"Louisiana","US",2020-03-15,Recovered,0
+"New Jersey","US",2020-03-15,Confirmed,98
+"New Jersey","US",2020-03-15,Deaths,2
+"New Jersey","US",2020-03-15,Recovered,0
+"British Columbia","Canada",2020-03-15,Confirmed,73
+"British Columbia","Canada",2020-03-15,Deaths,1
+"British Columbia","Canada",2020-03-15,Recovered,4
+"Illinois","US",2020-03-15,Confirmed,93
+"Illinois","US",2020-03-15,Deaths,0
+"Illinois","US",2020-03-15,Recovered,2
+"Texas","US",2020-03-15,Confirmed,72
+"Texas","US",2020-03-15,Deaths,0
+"Texas","US",2020-03-15,Recovered,0
+"Pennsylvania","US",2020-03-15,Confirmed,66
+"Pennsylvania","US",2020-03-15,Deaths,0
+"Pennsylvania","US",2020-03-15,Recovered,0
+"Diamond Princess","US",2020-03-15,Confirmed,46
+"Diamond Princess","US",2020-03-15,Deaths,0
+"Diamond Princess","US",2020-03-15,Recovered,0
+"Virginia","US",2020-03-15,Confirmed,45
+"Virginia","US",2020-03-15,Deaths,1
+"Virginia","US",2020-03-15,Recovered,0
+"Alberta","Canada",2020-03-15,Confirmed,39
+"Alberta","Canada",2020-03-15,Deaths,0
+"Alberta","Canada",2020-03-15,Recovered,0
+"Oregon","US",2020-03-15,Confirmed,36
+"Oregon","US",2020-03-15,Deaths,1
+"Oregon","US",2020-03-15,Recovered,0
+"Minnesota","US",2020-03-15,Confirmed,35
+"Minnesota","US",2020-03-15,Deaths,0
+"Minnesota","US",2020-03-15,Recovered,0
+"Michigan","US",2020-03-15,Confirmed,33
+"Michigan","US",2020-03-15,Deaths,0
+"Michigan","US",2020-03-15,Recovered,0
+"North Carolina","US",2020-03-15,Confirmed,33
+"North Carolina","US",2020-03-15,Deaths,0
+"North Carolina","US",2020-03-15,Recovered,0
+"Tennessee","US",2020-03-15,Confirmed,39
+"Tennessee","US",2020-03-15,Deaths,0
+"Tennessee","US",2020-03-15,Recovered,0
+"Maryland","US",2020-03-15,Confirmed,32
+"Maryland","US",2020-03-15,Deaths,0
+"Maryland","US",2020-03-15,Recovered,0
+"Ohio","US",2020-03-15,Confirmed,37
+"Ohio","US",2020-03-15,Deaths,0
+"Ohio","US",2020-03-15,Recovered,0
+"Wisconsin","US",2020-03-15,Confirmed,32
+"Wisconsin","US",2020-03-15,Deaths,0
+"Wisconsin","US",2020-03-15,Recovered,1
+"Quebec","Canada",2020-03-15,Confirmed,24
+"Quebec","Canada",2020-03-15,Deaths,0
+"Quebec","Canada",2020-03-15,Recovered,0
+"Connecticut","US",2020-03-15,Confirmed,24
+"Connecticut","US",2020-03-15,Deaths,0
+"Connecticut","US",2020-03-15,Recovered,0
+"Utah","US",2020-03-15,Confirmed,28
+"Utah","US",2020-03-15,Deaths,0
+"Utah","US",2020-03-15,Recovered,0
+"Nevada","US",2020-03-15,Confirmed,24
+"Nevada","US",2020-03-15,Deaths,0
+"Nevada","US",2020-03-15,Recovered,0
+"Indiana","US",2020-03-15,Confirmed,20
+"Indiana","US",2020-03-15,Deaths,0
+"Indiana","US",2020-03-15,Recovered,0
+"Rhode Island","US",2020-03-15,Confirmed,20
+"Rhode Island","US",2020-03-15,Deaths,0
+"Rhode Island","US",2020-03-15,Recovered,0
+"South Carolina","US",2020-03-15,Confirmed,28
+"South Carolina","US",2020-03-15,Deaths,0
+"South Carolina","US",2020-03-15,Recovered,0
+"Iowa","US",2020-03-15,Confirmed,18
+"Iowa","US",2020-03-15,Deaths,0
+"Iowa","US",2020-03-15,Recovered,0
+"Kentucky","US",2020-03-15,Confirmed,20
+"Kentucky","US",2020-03-15,Deaths,0
+"Kentucky","US",2020-03-15,Recovered,0
+"Nebraska","US",2020-03-15,Confirmed,17
+"Nebraska","US",2020-03-15,Deaths,0
+"Nebraska","US",2020-03-15,Recovered,0
+"Arkansas","US",2020-03-15,Confirmed,16
+"Arkansas","US",2020-03-15,Deaths,0
+"Arkansas","US",2020-03-15,Recovered,0
+"District of Columbia","US",2020-03-15,Confirmed,16
+"District of Columbia","US",2020-03-15,Deaths,0
+"District of Columbia","US",2020-03-15,Recovered,0
+"New Mexico","US",2020-03-15,Confirmed,13
+"New Mexico","US",2020-03-15,Deaths,0
+"New Mexico","US",2020-03-15,Recovered,0
+"Alabama","US",2020-03-15,Confirmed,12
+"Alabama","US",2020-03-15,Deaths,0
+"Alabama","US",2020-03-15,Recovered,0
+"Arizona","US",2020-03-15,Confirmed,13
+"Arizona","US",2020-03-15,Deaths,0
+"Arizona","US",2020-03-15,Recovered,1
+"South Dakota","US",2020-03-15,Confirmed,9
+"South Dakota","US",2020-03-15,Deaths,1
+"South Dakota","US",2020-03-15,Recovered,0
+"Kansas","US",2020-03-15,Confirmed,8
+"Kansas","US",2020-03-15,Deaths,1
+"Kansas","US",2020-03-15,Recovered,0
+"Montana","US",2020-03-15,Confirmed,7
+"Montana","US",2020-03-15,Deaths,0
+"Montana","US",2020-03-15,Recovered,0
+"New Hampshire","US",2020-03-15,Confirmed,13
+"New Hampshire","US",2020-03-15,Deaths,0
+"New Hampshire","US",2020-03-15,Recovered,0
+"Delaware","US",2020-03-15,Confirmed,7
+"Delaware","US",2020-03-15,Deaths,0
+"Delaware","US",2020-03-15,Recovered,0
+"Hawaii","US",2020-03-15,Confirmed,6
+"Hawaii","US",2020-03-15,Deaths,0
+"Hawaii","US",2020-03-15,Recovered,0
+"Maine","US",2020-03-15,Confirmed,12
+"Maine","US",2020-03-15,Deaths,0
+"Maine","US",2020-03-15,Recovered,0
+"Mississippi","US",2020-03-15,Confirmed,10
+"Mississippi","US",2020-03-15,Deaths,0
+"Mississippi","US",2020-03-15,Recovered,0
+"Idaho","US",2020-03-15,Confirmed,5
+"Idaho","US",2020-03-15,Deaths,0
+"Idaho","US",2020-03-15,Recovered,0
+"Missouri","US",2020-03-15,Confirmed,5
+"Missouri","US",2020-03-15,Deaths,0
+"Missouri","US",2020-03-15,Recovered,0
+"Vermont","US",2020-03-15,Confirmed,8
+"Vermont","US",2020-03-15,Deaths,0
+"Vermont","US",2020-03-15,Recovered,0
+"Manitoba","Canada",2020-03-15,Confirmed,4
+"Manitoba","Canada",2020-03-15,Deaths,0
+"Manitoba","Canada",2020-03-15,Recovered,0
+"Oklahoma","US",2020-03-15,Confirmed,7
+"Oklahoma","US",2020-03-15,Deaths,0
+"Oklahoma","US",2020-03-15,Recovered,0
+"Guam","US",2020-03-15,Confirmed,3
+"Guam","US",2020-03-15,Deaths,0
+"Guam","US",2020-03-15,Recovered,0
+"Puerto Rico","US",2020-03-15,Confirmed,5
+"Puerto Rico","US",2020-03-15,Deaths,0
+"Puerto Rico","US",2020-03-15,Recovered,0
+"Wyoming","US",2020-03-15,Confirmed,3
+"Wyoming","US",2020-03-15,Deaths,0
+"Wyoming","US",2020-03-15,Recovered,0
+"New Brunswick","Canada",2020-03-15,Confirmed,2
+"New Brunswick","Canada",2020-03-15,Deaths,0
+"New Brunswick","Canada",2020-03-15,Recovered,0
+"Saskatchewan","Canada",2020-03-15,Confirmed,2
+"Saskatchewan","Canada",2020-03-15,Deaths,0
+"Saskatchewan","Canada",2020-03-15,Recovered,0
+"Newfoundland and Labrador","Canada",2020-03-15,Confirmed,1
+"Newfoundland and Labrador","Canada",2020-03-15,Deaths,0
+"Newfoundland and Labrador","Canada",2020-03-15,Recovered,0
+"Prince Edward Island","Canada",2020-03-15,Confirmed,1
+"Prince Edward Island","Canada",2020-03-15,Deaths,0
+"Prince Edward Island","Canada",2020-03-15,Recovered,0
+"Alaska","US",2020-03-15,Confirmed,1
+"Alaska","US",2020-03-15,Deaths,0
+"Alaska","US",2020-03-15,Recovered,0
+"North Dakota","US",2020-03-15,Confirmed,1
+"North Dakota","US",2020-03-15,Deaths,0
+"North Dakota","US",2020-03-15,Recovered,0
+"West Virginia","US",2020-03-15,Confirmed,0
+"West Virginia","US",2020-03-15,Deaths,0
+"West Virginia","US",2020-03-15,Recovered,0
+"New York","US",2020-03-16,Confirmed,967
+"New York","US",2020-03-16,Deaths,10
+"New York","US",2020-03-16,Recovered,0
+"Washington","US",2020-03-16,Confirmed,904
+"Washington","US",2020-03-16,Deaths,48
+"Washington","US",2020-03-16,Recovered,1
+"California","US",2020-03-16,Confirmed,557
+"California","US",2020-03-16,Deaths,7
+"California","US",2020-03-16,Recovered,6
+"Massachusetts","US",2020-03-16,Confirmed,197
+"Massachusetts","US",2020-03-16,Deaths,0
+"Massachusetts","US",2020-03-16,Recovered,1
+"New Jersey","US",2020-03-16,Confirmed,178
+"New Jersey","US",2020-03-16,Deaths,2
+"New Jersey","US",2020-03-16,Recovered,1
+"Ontario","Canada",2020-03-16,Confirmed,177
+"Ontario","Canada",2020-03-16,Deaths,0
+"Ontario","Canada",2020-03-16,Recovered,5
+"Colorado","US",2020-03-16,Confirmed,160
+"Colorado","US",2020-03-16,Deaths,1
+"Colorado","US",2020-03-16,Recovered,0
+"Florida","US",2020-03-16,Confirmed,155
+"Florida","US",2020-03-16,Deaths,5
+"Florida","US",2020-03-16,Recovered,0
+"Louisiana","US",2020-03-16,Confirmed,136
+"Louisiana","US",2020-03-16,Deaths,3
+"Louisiana","US",2020-03-16,Recovered,0
+"Georgia","US",2020-03-16,Confirmed,121
+"Georgia","US",2020-03-16,Deaths,1
+"Georgia","US",2020-03-16,Recovered,0
+"Illinois","US",2020-03-16,Confirmed,105
+"Illinois","US",2020-03-16,Deaths,0
+"Illinois","US",2020-03-16,Recovered,2
+"British Columbia","Canada",2020-03-16,Confirmed,103
+"British Columbia","Canada",2020-03-16,Deaths,4
+"British Columbia","Canada",2020-03-16,Recovered,4
+"Texas","US",2020-03-16,Confirmed,85
+"Texas","US",2020-03-16,Deaths,0
+"Texas","US",2020-03-16,Recovered,0
+"Pennsylvania","US",2020-03-16,Confirmed,77
+"Pennsylvania","US",2020-03-16,Deaths,0
+"Pennsylvania","US",2020-03-16,Recovered,0
+"Alberta","Canada",2020-03-16,Confirmed,56
+"Alberta","Canada",2020-03-16,Deaths,0
+"Alberta","Canada",2020-03-16,Recovered,0
+"Minnesota","US",2020-03-16,Confirmed,54
+"Minnesota","US",2020-03-16,Deaths,0
+"Minnesota","US",2020-03-16,Recovered,0
+"Michigan","US",2020-03-16,Confirmed,53
+"Michigan","US",2020-03-16,Deaths,0
+"Michigan","US",2020-03-16,Recovered,0
+"Tennessee","US",2020-03-16,Confirmed,52
+"Tennessee","US",2020-03-16,Deaths,0
+"Tennessee","US",2020-03-16,Recovered,0
+"Quebec","Canada",2020-03-16,Confirmed,50
+"Quebec","Canada",2020-03-16,Deaths,0
+"Quebec","Canada",2020-03-16,Recovered,0
+"Ohio","US",2020-03-16,Confirmed,50
+"Ohio","US",2020-03-16,Deaths,0
+"Ohio","US",2020-03-16,Recovered,0
+"Virginia","US",2020-03-16,Confirmed,49
+"Virginia","US",2020-03-16,Deaths,1
+"Virginia","US",2020-03-16,Recovered,0
+"Diamond Princess","US",2020-03-16,Confirmed,47
+"Diamond Princess","US",2020-03-16,Deaths,0
+"Diamond Princess","US",2020-03-16,Recovered,0
+"Wisconsin","US",2020-03-16,Confirmed,47
+"Wisconsin","US",2020-03-16,Deaths,0
+"Wisconsin","US",2020-03-16,Recovered,1
+"Nevada","US",2020-03-16,Confirmed,45
+"Nevada","US",2020-03-16,Deaths,1
+"Nevada","US",2020-03-16,Recovered,0
+"Maryland","US",2020-03-16,Confirmed,41
+"Maryland","US",2020-03-16,Deaths,0
+"Maryland","US",2020-03-16,Recovered,3
+"Oregon","US",2020-03-16,Confirmed,39
+"Oregon","US",2020-03-16,Deaths,1
+"Oregon","US",2020-03-16,Recovered,0
+"Utah","US",2020-03-16,Confirmed,39
+"Utah","US",2020-03-16,Deaths,0
+"Utah","US",2020-03-16,Recovered,0
+"North Carolina","US",2020-03-16,Confirmed,38
+"North Carolina","US",2020-03-16,Deaths,0
+"North Carolina","US",2020-03-16,Recovered,0
+"South Carolina","US",2020-03-16,Confirmed,33
+"South Carolina","US",2020-03-16,Deaths,1
+"South Carolina","US",2020-03-16,Recovered,0
+"Connecticut","US",2020-03-16,Confirmed,30
+"Connecticut","US",2020-03-16,Deaths,0
+"Connecticut","US",2020-03-16,Recovered,0
+"Alabama","US",2020-03-16,Confirmed,29
+"Alabama","US",2020-03-16,Deaths,0
+"Alabama","US",2020-03-16,Recovered,0
+"Indiana","US",2020-03-16,Confirmed,25
+"Indiana","US",2020-03-16,Deaths,1
+"Indiana","US",2020-03-16,Recovered,0
+"Iowa","US",2020-03-16,Confirmed,23
+"Iowa","US",2020-03-16,Deaths,0
+"Iowa","US",2020-03-16,Recovered,0
+"Arkansas","US",2020-03-16,Confirmed,22
+"Arkansas","US",2020-03-16,Deaths,0
+"Arkansas","US",2020-03-16,Recovered,0
+"District of Columbia","US",2020-03-16,Confirmed,22
+"District of Columbia","US",2020-03-16,Deaths,0
+"District of Columbia","US",2020-03-16,Recovered,0
+"Kentucky","US",2020-03-16,Confirmed,21
+"Kentucky","US",2020-03-16,Deaths,1
+"Kentucky","US",2020-03-16,Recovered,1
+"Rhode Island","US",2020-03-16,Confirmed,21
+"Rhode Island","US",2020-03-16,Deaths,0
+"Rhode Island","US",2020-03-16,Recovered,0
+"Arizona","US",2020-03-16,Confirmed,18
+"Arizona","US",2020-03-16,Deaths,0
+"Arizona","US",2020-03-16,Recovered,1
+"Nebraska","US",2020-03-16,Confirmed,18
+"Nebraska","US",2020-03-16,Deaths,0
+"Nebraska","US",2020-03-16,Recovered,0
+"Maine","US",2020-03-16,Confirmed,17
+"Maine","US",2020-03-16,Deaths,0
+"Maine","US",2020-03-16,Recovered,0
+"New Hampshire","US",2020-03-16,Confirmed,17
+"New Hampshire","US",2020-03-16,Deaths,0
+"New Hampshire","US",2020-03-16,Recovered,0
+"New Mexico","US",2020-03-16,Confirmed,17
+"New Mexico","US",2020-03-16,Deaths,0
+"New Mexico","US",2020-03-16,Recovered,0
+"Mississippi","US",2020-03-16,Confirmed,13
+"Mississippi","US",2020-03-16,Deaths,0
+"Mississippi","US",2020-03-16,Recovered,0
+"Vermont","US",2020-03-16,Confirmed,12
+"Vermont","US",2020-03-16,Deaths,0
+"Vermont","US",2020-03-16,Recovered,0
+"Kansas","US",2020-03-16,Confirmed,11
+"Kansas","US",2020-03-16,Deaths,1
+"Kansas","US",2020-03-16,Recovered,0
+"Oklahoma","US",2020-03-16,Confirmed,10
+"Oklahoma","US",2020-03-16,Deaths,0
+"Oklahoma","US",2020-03-16,Recovered,0
+"South Dakota","US",2020-03-16,Confirmed,10
+"South Dakota","US",2020-03-16,Deaths,1
+"South Dakota","US",2020-03-16,Recovered,0
+"Delaware","US",2020-03-16,Confirmed,8
+"Delaware","US",2020-03-16,Deaths,0
+"Delaware","US",2020-03-16,Recovered,0
+"Manitoba","Canada",2020-03-16,Confirmed,7
+"Manitoba","Canada",2020-03-16,Deaths,0
+"Manitoba","Canada",2020-03-16,Recovered,0
+"Saskatchewan","Canada",2020-03-16,Confirmed,7
+"Saskatchewan","Canada",2020-03-16,Deaths,0
+"Saskatchewan","Canada",2020-03-16,Recovered,0
+"Hawaii","US",2020-03-16,Confirmed,7
+"Hawaii","US",2020-03-16,Deaths,0
+"Hawaii","US",2020-03-16,Recovered,0
+"Montana","US",2020-03-16,Confirmed,7
+"Montana","US",2020-03-16,Deaths,0
+"Montana","US",2020-03-16,Recovered,0
+"New Brunswick","Canada",2020-03-16,Confirmed,6
+"New Brunswick","Canada",2020-03-16,Deaths,0
+"New Brunswick","Canada",2020-03-16,Recovered,0
+"Missouri","US",2020-03-16,Confirmed,6
+"Missouri","US",2020-03-16,Deaths,0
+"Missouri","US",2020-03-16,Recovered,0
+"Nova Scotia","Canada",2020-03-16,Confirmed,5
+"Nova Scotia","Canada",2020-03-16,Deaths,0
+"Nova Scotia","Canada",2020-03-16,Recovered,0
+"Idaho","US",2020-03-16,Confirmed,5
+"Idaho","US",2020-03-16,Deaths,0
+"Idaho","US",2020-03-16,Recovered,0
+"Puerto Rico","US",2020-03-16,Confirmed,5
+"Puerto Rico","US",2020-03-16,Deaths,0
+"Puerto Rico","US",2020-03-16,Recovered,0
+"Guam","US",2020-03-16,Confirmed,3
+"Guam","US",2020-03-16,Deaths,0
+"Guam","US",2020-03-16,Recovered,0
+"Wyoming","US",2020-03-16,Confirmed,3
+"Wyoming","US",2020-03-16,Deaths,0
+"Wyoming","US",2020-03-16,Recovered,0
+"Newfoundland and Labrador","Canada",2020-03-16,Confirmed,1
+"Newfoundland and Labrador","Canada",2020-03-16,Deaths,0
+"Newfoundland and Labrador","Canada",2020-03-16,Recovered,0
+"Prince Edward Island","Canada",2020-03-16,Confirmed,1
+"Prince Edward Island","Canada",2020-03-16,Deaths,0
+"Prince Edward Island","Canada",2020-03-16,Recovered,0
+"Alaska","US",2020-03-16,Confirmed,1
+"Alaska","US",2020-03-16,Deaths,0
+"Alaska","US",2020-03-16,Recovered,0
+"North Dakota","US",2020-03-16,Confirmed,1
+"North Dakota","US",2020-03-16,Deaths,0
+"North Dakota","US",2020-03-16,Recovered,0
+"Virgin Islands","US",2020-03-16,Confirmed,1
+"Virgin Islands","US",2020-03-16,Deaths,0
+"Virgin Islands","US",2020-03-16,Recovered,0
+"West Virginia","US",2020-03-16,Confirmed,0
+"West Virginia","US",2020-03-16,Deaths,0
+"West Virginia","US",2020-03-16,Recovered,0
+"New York","US",2020-03-17,Confirmed,1706
+"New York","US",2020-03-17,Deaths,13
+"New York","US",2020-03-17,Recovered,0
+"Washington","US",2020-03-17,Confirmed,1076
+"Washington","US",2020-03-17,Deaths,55
+"Washington","US",2020-03-17,Recovered,1
+"California","US",2020-03-17,Confirmed,698
+"California","US",2020-03-17,Deaths,12
+"California","US",2020-03-17,Recovered,6
+"New Jersey","US",2020-03-17,Confirmed,267
+"New Jersey","US",2020-03-17,Deaths,3
+"New Jersey","US",2020-03-17,Recovered,1
+"Massachusetts","US",2020-03-17,Confirmed,218
+"Massachusetts","US",2020-03-17,Deaths,0
+"Massachusetts","US",2020-03-17,Recovered,1
+"Florida","US",2020-03-17,Confirmed,216
+"Florida","US",2020-03-17,Deaths,6
+"Florida","US",2020-03-17,Recovered,0
+"Louisiana","US",2020-03-17,Confirmed,196
+"Louisiana","US",2020-03-17,Deaths,4
+"Louisiana","US",2020-03-17,Recovered,0
+"Ontario","Canada",2020-03-17,Confirmed,185
+"Ontario","Canada",2020-03-17,Deaths,1
+"Ontario","Canada",2020-03-17,Recovered,5
+"Illinois","US",2020-03-17,Confirmed,161
+"Illinois","US",2020-03-17,Deaths,1
+"Illinois","US",2020-03-17,Recovered,2
+"Colorado","US",2020-03-17,Confirmed,160
+"Colorado","US",2020-03-17,Deaths,2
+"Colorado","US",2020-03-17,Recovered,0
+"Georgia","US",2020-03-17,Confirmed,146
+"Georgia","US",2020-03-17,Deaths,1
+"Georgia","US",2020-03-17,Recovered,0
+"Pennsylvania","US",2020-03-17,Confirmed,112
+"Pennsylvania","US",2020-03-17,Deaths,0
+"Pennsylvania","US",2020-03-17,Recovered,0
+"Texas","US",2020-03-17,Confirmed,110
+"Texas","US",2020-03-17,Deaths,1
+"Texas","US",2020-03-17,Recovered,0
+"British Columbia","Canada",2020-03-17,Confirmed,103
+"British Columbia","Canada",2020-03-17,Deaths,4
+"British Columbia","Canada",2020-03-17,Recovered,4
+"Alberta","Canada",2020-03-17,Confirmed,74
+"Alberta","Canada",2020-03-17,Deaths,0
+"Alberta","Canada",2020-03-17,Recovered,0
+"Quebec","Canada",2020-03-17,Confirmed,74
+"Quebec","Canada",2020-03-17,Deaths,0
+"Quebec","Canada",2020-03-17,Recovered,0
+"Tennessee","US",2020-03-17,Confirmed,74
+"Tennessee","US",2020-03-17,Deaths,0
+"Tennessee","US",2020-03-17,Recovered,0
+"Wisconsin","US",2020-03-17,Confirmed,72
+"Wisconsin","US",2020-03-17,Deaths,0
+"Wisconsin","US",2020-03-17,Recovered,1
+"Connecticut","US",2020-03-17,Confirmed,68
+"Connecticut","US",2020-03-17,Deaths,0
+"Connecticut","US",2020-03-17,Recovered,0
+"Ohio","US",2020-03-17,Confirmed,67
+"Ohio","US",2020-03-17,Deaths,0
+"Ohio","US",2020-03-17,Recovered,0
+"Virginia","US",2020-03-17,Confirmed,67
+"Virginia","US",2020-03-17,Deaths,2
+"Virginia","US",2020-03-17,Recovered,0
+"Oregon","US",2020-03-17,Confirmed,66
+"Oregon","US",2020-03-17,Deaths,1
+"Oregon","US",2020-03-17,Recovered,0
+"Michigan","US",2020-03-17,Confirmed,65
+"Michigan","US",2020-03-17,Deaths,0
+"Michigan","US",2020-03-17,Recovered,0
+"North Carolina","US",2020-03-17,Confirmed,64
+"North Carolina","US",2020-03-17,Deaths,0
+"North Carolina","US",2020-03-17,Recovered,0
+"Maryland","US",2020-03-17,Confirmed,60
+"Maryland","US",2020-03-17,Deaths,0
+"Maryland","US",2020-03-17,Recovered,3
+"Minnesota","US",2020-03-17,Confirmed,60
+"Minnesota","US",2020-03-17,Deaths,0
+"Minnesota","US",2020-03-17,Recovered,0
+"Nevada","US",2020-03-17,Confirmed,56
+"Nevada","US",2020-03-17,Deaths,1
+"Nevada","US",2020-03-17,Recovered,0
+"Utah","US",2020-03-17,Confirmed,51
+"Utah","US",2020-03-17,Deaths,0
+"Utah","US",2020-03-17,Recovered,0
+"Diamond Princess","US",2020-03-17,Confirmed,47
+"Diamond Princess","US",2020-03-17,Deaths,0
+"Diamond Princess","US",2020-03-17,Recovered,0
+"South Carolina","US",2020-03-17,Confirmed,47
+"South Carolina","US",2020-03-17,Deaths,1
+"South Carolina","US",2020-03-17,Recovered,0
+"Alabama","US",2020-03-17,Confirmed,39
+"Alabama","US",2020-03-17,Deaths,0
+"Alabama","US",2020-03-17,Recovered,0
+"Maine","US",2020-03-17,Confirmed,32
+"Maine","US",2020-03-17,Deaths,0
+"Maine","US",2020-03-17,Recovered,0
+"Indiana","US",2020-03-17,Confirmed,30
+"Indiana","US",2020-03-17,Deaths,2
+"Indiana","US",2020-03-17,Recovered,0
+"Kentucky","US",2020-03-17,Confirmed,26
+"Kentucky","US",2020-03-17,Deaths,1
+"Kentucky","US",2020-03-17,Recovered,1
+"New Hampshire","US",2020-03-17,Confirmed,26
+"New Hampshire","US",2020-03-17,Deaths,0
+"New Hampshire","US",2020-03-17,Recovered,0
+"Iowa","US",2020-03-17,Confirmed,23
+"Iowa","US",2020-03-17,Deaths,0
+"Iowa","US",2020-03-17,Recovered,0
+"New Mexico","US",2020-03-17,Confirmed,23
+"New Mexico","US",2020-03-17,Deaths,0
+"New Mexico","US",2020-03-17,Recovered,0
+"Rhode Island","US",2020-03-17,Confirmed,23
+"Rhode Island","US",2020-03-17,Deaths,0
+"Rhode Island","US",2020-03-17,Recovered,0
+"Arkansas","US",2020-03-17,Confirmed,22
+"Arkansas","US",2020-03-17,Deaths,0
+"Arkansas","US",2020-03-17,Recovered,0
+"District of Columbia","US",2020-03-17,Confirmed,22
+"District of Columbia","US",2020-03-17,Deaths,0
+"District of Columbia","US",2020-03-17,Recovered,0
+"Mississippi","US",2020-03-17,Confirmed,21
+"Mississippi","US",2020-03-17,Deaths,0
+"Mississippi","US",2020-03-17,Recovered,0
+"Nebraska","US",2020-03-17,Confirmed,21
+"Nebraska","US",2020-03-17,Deaths,0
+"Nebraska","US",2020-03-17,Recovered,0
+"Arizona","US",2020-03-17,Confirmed,20
+"Arizona","US",2020-03-17,Deaths,0
+"Arizona","US",2020-03-17,Recovered,1
+"Oklahoma","US",2020-03-17,Confirmed,19
+"Oklahoma","US",2020-03-17,Deaths,0
+"Oklahoma","US",2020-03-17,Recovered,0
+"Kansas","US",2020-03-17,Confirmed,18
+"Kansas","US",2020-03-17,Deaths,1
+"Kansas","US",2020-03-17,Recovered,0
+"Delaware","US",2020-03-17,Confirmed,16
+"Delaware","US",2020-03-17,Deaths,0
+"Delaware","US",2020-03-17,Recovered,0
+"Vermont","US",2020-03-17,Confirmed,12
+"Vermont","US",2020-03-17,Deaths,0
+"Vermont","US",2020-03-17,Recovered,0
+"Missouri","US",2020-03-17,Confirmed,11
+"Missouri","US",2020-03-17,Deaths,0
+"Missouri","US",2020-03-17,Recovered,0
+"South Dakota","US",2020-03-17,Confirmed,11
+"South Dakota","US",2020-03-17,Deaths,1
+"South Dakota","US",2020-03-17,Recovered,0
+"Wyoming","US",2020-03-17,Confirmed,11
+"Wyoming","US",2020-03-17,Deaths,0
+"Wyoming","US",2020-03-17,Recovered,0
+"Hawaii","US",2020-03-17,Confirmed,10
+"Hawaii","US",2020-03-17,Deaths,0
+"Hawaii","US",2020-03-17,Recovered,0
+"Montana","US",2020-03-17,Confirmed,9
+"Montana","US",2020-03-17,Deaths,0
+"Montana","US",2020-03-17,Recovered,0
+"Manitoba","Canada",2020-03-17,Confirmed,8
+"Manitoba","Canada",2020-03-17,Deaths,0
+"Manitoba","Canada",2020-03-17,Recovered,0
+"New Brunswick","Canada",2020-03-17,Confirmed,8
+"New Brunswick","Canada",2020-03-17,Deaths,0
+"New Brunswick","Canada",2020-03-17,Recovered,0
+"Idaho","US",2020-03-17,Confirmed,8
+"Idaho","US",2020-03-17,Deaths,0
+"Idaho","US",2020-03-17,Recovered,0
+"Nova Scotia","Canada",2020-03-17,Confirmed,7
+"Nova Scotia","Canada",2020-03-17,Deaths,0
+"Nova Scotia","Canada",2020-03-17,Recovered,0
+"Saskatchewan","Canada",2020-03-17,Confirmed,7
+"Saskatchewan","Canada",2020-03-17,Deaths,0
+"Saskatchewan","Canada",2020-03-17,Recovered,0
+"Puerto Rico","US",2020-03-17,Confirmed,5
+"Puerto Rico","US",2020-03-17,Deaths,0
+"Puerto Rico","US",2020-03-17,Recovered,0
+"Newfoundland and Labrador","Canada",2020-03-17,Confirmed,3
+"Newfoundland and Labrador","Canada",2020-03-17,Deaths,0
+"Newfoundland and Labrador","Canada",2020-03-17,Recovered,0
+"Alaska","US",2020-03-17,Confirmed,3
+"Alaska","US",2020-03-17,Deaths,0
+"Alaska","US",2020-03-17,Recovered,0
+"Guam","US",2020-03-17,Confirmed,3
+"Guam","US",2020-03-17,Deaths,0
+"Guam","US",2020-03-17,Recovered,0
+"North Dakota","US",2020-03-17,Confirmed,3
+"North Dakota","US",2020-03-17,Deaths,0
+"North Dakota","US",2020-03-17,Recovered,0
+"Virgin Islands","US",2020-03-17,Confirmed,2
+"Virgin Islands","US",2020-03-17,Deaths,0
+"Virgin Islands","US",2020-03-17,Recovered,0
+"Prince Edward Island","Canada",2020-03-17,Confirmed,1
+"Prince Edward Island","Canada",2020-03-17,Deaths,0
+"Prince Edward Island","Canada",2020-03-17,Recovered,0
+"West Virginia","US",2020-03-17,Confirmed,1
+"West Virginia","US",2020-03-17,Deaths,0
+"West Virginia","US",2020-03-17,Recovered,0
+"New York","US",2020-03-18,Confirmed,2495
+"New York","US",2020-03-18,Deaths,16
+"New York","US",2020-03-18,Recovered,0
+"Washington","US",2020-03-18,Confirmed,1014
+"Washington","US",2020-03-18,Deaths,55
+"Washington","US",2020-03-18,Recovered,0
+"California","US",2020-03-18,Confirmed,751
+"California","US",2020-03-18,Deaths,13
+"California","US",2020-03-18,Recovered,0
+"Florida","US",2020-03-18,Confirmed,314
+"Florida","US",2020-03-18,Deaths,7
+"Florida","US",2020-03-18,Recovered,0
+"New Jersey","US",2020-03-18,Confirmed,267
+"New Jersey","US",2020-03-18,Deaths,3
+"New Jersey","US",2020-03-18,Recovered,0
+"Louisiana","US",2020-03-18,Confirmed,257
+"Louisiana","US",2020-03-18,Deaths,4
+"Louisiana","US",2020-03-18,Recovered,0
+"Ontario","Canada",2020-03-18,Confirmed,221
+"Ontario","Canada",2020-03-18,Deaths,1
+"Ontario","Canada",2020-03-18,Recovered,5
+"Massachusetts","US",2020-03-18,Confirmed,218
+"Massachusetts","US",2020-03-18,Deaths,0
+"Massachusetts","US",2020-03-18,Recovered,0
+"Georgia","US",2020-03-18,Confirmed,199
+"Georgia","US",2020-03-18,Deaths,3
+"Georgia","US",2020-03-18,Recovered,0
+"British Columbia","Canada",2020-03-18,Confirmed,186
+"British Columbia","Canada",2020-03-18,Deaths,7
+"British Columbia","Canada",2020-03-18,Recovered,4
+"Colorado","US",2020-03-18,Confirmed,184
+"Colorado","US",2020-03-18,Deaths,2
+"Colorado","US",2020-03-18,Recovered,0
+"Texas","US",2020-03-18,Confirmed,173
+"Texas","US",2020-03-18,Deaths,3
+"Texas","US",2020-03-18,Recovered,0
+"Illinois","US",2020-03-18,Confirmed,162
+"Illinois","US",2020-03-18,Deaths,1
+"Illinois","US",2020-03-18,Recovered,0
+"Pennsylvania","US",2020-03-18,Confirmed,152
+"Pennsylvania","US",2020-03-18,Deaths,0
+"Pennsylvania","US",2020-03-18,Recovered,0
+"Alberta","Canada",2020-03-18,Confirmed,97
+"Alberta","Canada",2020-03-18,Deaths,0
+"Alberta","Canada",2020-03-18,Recovered,0
+"Quebec","Canada",2020-03-18,Confirmed,94
+"Quebec","Canada",2020-03-18,Deaths,0
+"Quebec","Canada",2020-03-18,Recovered,0
+"Wisconsin","US",2020-03-18,Confirmed,92
+"Wisconsin","US",2020-03-18,Deaths,0
+"Wisconsin","US",2020-03-18,Recovered,0
+"Ohio","US",2020-03-18,Confirmed,86
+"Ohio","US",2020-03-18,Deaths,0
+"Ohio","US",2020-03-18,Recovered,0
+"Maryland","US",2020-03-18,Confirmed,85
+"Maryland","US",2020-03-18,Deaths,0
+"Maryland","US",2020-03-18,Recovered,0
+"Michigan","US",2020-03-18,Confirmed,83
+"Michigan","US",2020-03-18,Deaths,0
+"Michigan","US",2020-03-18,Recovered,0
+"Tennessee","US",2020-03-18,Confirmed,79
+"Tennessee","US",2020-03-18,Deaths,0
+"Tennessee","US",2020-03-18,Recovered,0
+"Minnesota","US",2020-03-18,Confirmed,77
+"Minnesota","US",2020-03-18,Deaths,0
+"Minnesota","US",2020-03-18,Recovered,0
+"Virginia","US",2020-03-18,Confirmed,77
+"Virginia","US",2020-03-18,Deaths,2
+"Virginia","US",2020-03-18,Recovered,0
+"North Carolina","US",2020-03-18,Confirmed,70
+"North Carolina","US",2020-03-18,Deaths,0
+"North Carolina","US",2020-03-18,Recovered,0
+"Connecticut","US",2020-03-18,Confirmed,68
+"Connecticut","US",2020-03-18,Deaths,0
+"Connecticut","US",2020-03-18,Recovered,0
+"Oregon","US",2020-03-18,Confirmed,68
+"Oregon","US",2020-03-18,Deaths,2
+"Oregon","US",2020-03-18,Recovered,0
+"Nevada","US",2020-03-18,Confirmed,55
+"Nevada","US",2020-03-18,Deaths,1
+"Nevada","US",2020-03-18,Recovered,0
+"Utah","US",2020-03-18,Confirmed,51
+"Utah","US",2020-03-18,Deaths,0
+"Utah","US",2020-03-18,Recovered,0
+"Diamond Princess","US",2020-03-18,Confirmed,47
+"Diamond Princess","US",2020-03-18,Deaths,0
+"Diamond Princess","US",2020-03-18,Recovered,0
+"South Carolina","US",2020-03-18,Confirmed,47
+"South Carolina","US",2020-03-18,Deaths,1
+"South Carolina","US",2020-03-18,Recovered,0
+"Alabama","US",2020-03-18,Confirmed,46
+"Alabama","US",2020-03-18,Deaths,0
+"Alabama","US",2020-03-18,Recovered,0
+"Maine","US",2020-03-18,Confirmed,42
+"Maine","US",2020-03-18,Deaths,0
+"Maine","US",2020-03-18,Recovered,0
+"Indiana","US",2020-03-18,Confirmed,39
+"Indiana","US",2020-03-18,Deaths,2
+"Indiana","US",2020-03-18,Recovered,0
+"Mississippi","US",2020-03-18,Confirmed,34
+"Mississippi","US",2020-03-18,Deaths,0
+"Mississippi","US",2020-03-18,Recovered,0
+"Arkansas","US",2020-03-18,Confirmed,33
+"Arkansas","US",2020-03-18,Deaths,0
+"Arkansas","US",2020-03-18,Recovered,0
+"Rhode Island","US",2020-03-18,Confirmed,33
+"Rhode Island","US",2020-03-18,Deaths,0
+"Rhode Island","US",2020-03-18,Recovered,0
+"District of Columbia","US",2020-03-18,Confirmed,31
+"District of Columbia","US",2020-03-18,Deaths,0
+"District of Columbia","US",2020-03-18,Recovered,0
+"Iowa","US",2020-03-18,Confirmed,29
+"Iowa","US",2020-03-18,Deaths,0
+"Iowa","US",2020-03-18,Recovered,0
+"Arizona","US",2020-03-18,Confirmed,27
+"Arizona","US",2020-03-18,Deaths,0
+"Arizona","US",2020-03-18,Recovered,0
+"Kentucky","US",2020-03-18,Confirmed,27
+"Kentucky","US",2020-03-18,Deaths,1
+"Kentucky","US",2020-03-18,Recovered,0
+"New Hampshire","US",2020-03-18,Confirmed,26
+"New Hampshire","US",2020-03-18,Deaths,0
+"New Hampshire","US",2020-03-18,Recovered,0
+"Nebraska","US",2020-03-18,Confirmed,24
+"Nebraska","US",2020-03-18,Deaths,0
+"Nebraska","US",2020-03-18,Recovered,0
+"New Mexico","US",2020-03-18,Confirmed,23
+"New Mexico","US",2020-03-18,Deaths,0
+"New Mexico","US",2020-03-18,Recovered,0
+"Delaware","US",2020-03-18,Confirmed,19
+"Delaware","US",2020-03-18,Deaths,0
+"Delaware","US",2020-03-18,Recovered,0
+"Oklahoma","US",2020-03-18,Confirmed,19
+"Oklahoma","US",2020-03-18,Deaths,0
+"Oklahoma","US",2020-03-18,Recovered,0
+"Kansas","US",2020-03-18,Confirmed,18
+"Kansas","US",2020-03-18,Deaths,1
+"Kansas","US",2020-03-18,Recovered,0
+"Missouri","US",2020-03-18,Confirmed,18
+"Missouri","US",2020-03-18,Deaths,0
+"Missouri","US",2020-03-18,Recovered,0
+"Vermont","US",2020-03-18,Confirmed,18
+"Vermont","US",2020-03-18,Deaths,0
+"Vermont","US",2020-03-18,Recovered,0
+"Manitoba","Canada",2020-03-18,Confirmed,15
+"Manitoba","Canada",2020-03-18,Deaths,0
+"Manitoba","Canada",2020-03-18,Recovered,0
+"Wyoming","US",2020-03-18,Confirmed,15
+"Wyoming","US",2020-03-18,Deaths,0
+"Wyoming","US",2020-03-18,Recovered,0
+"Hawaii","US",2020-03-18,Confirmed,14
+"Hawaii","US",2020-03-18,Deaths,0
+"Hawaii","US",2020-03-18,Recovered,0
+"Nova Scotia","Canada",2020-03-18,Confirmed,12
+"Nova Scotia","Canada",2020-03-18,Deaths,0
+"Nova Scotia","Canada",2020-03-18,Recovered,0
+"New Brunswick","Canada",2020-03-18,Confirmed,11
+"New Brunswick","Canada",2020-03-18,Deaths,0
+"New Brunswick","Canada",2020-03-18,Recovered,0
+"Montana","US",2020-03-18,Confirmed,11
+"Montana","US",2020-03-18,Deaths,0
+"Montana","US",2020-03-18,Recovered,0
+"South Dakota","US",2020-03-18,Confirmed,11
+"South Dakota","US",2020-03-18,Deaths,1
+"South Dakota","US",2020-03-18,Recovered,0
+"Idaho","US",2020-03-18,Confirmed,9
+"Idaho","US",2020-03-18,Deaths,0
+"Idaho","US",2020-03-18,Recovered,0
+"Saskatchewan","Canada",2020-03-18,Confirmed,8
+"Saskatchewan","Canada",2020-03-18,Deaths,0
+"Saskatchewan","Canada",2020-03-18,Recovered,0
+"Alaska","US",2020-03-18,Confirmed,6
+"Alaska","US",2020-03-18,Deaths,0
+"Alaska","US",2020-03-18,Recovered,0
+"North Dakota","US",2020-03-18,Confirmed,6
+"North Dakota","US",2020-03-18,Deaths,0
+"North Dakota","US",2020-03-18,Recovered,0
+"Guam","US",2020-03-18,Confirmed,5
+"Guam","US",2020-03-18,Deaths,0
+"Guam","US",2020-03-18,Recovered,0
+"Puerto Rico","US",2020-03-18,Confirmed,5
+"Puerto Rico","US",2020-03-18,Deaths,0
+"Puerto Rico","US",2020-03-18,Recovered,0
+"Newfoundland and Labrador","Canada",2020-03-18,Confirmed,3
+"Newfoundland and Labrador","Canada",2020-03-18,Deaths,0
+"Newfoundland and Labrador","Canada",2020-03-18,Recovered,0
+"United States Virgin Islands","US",2020-03-18,Confirmed,2
+"United States Virgin Islands","US",2020-03-18,Deaths,0
+"United States Virgin Islands","US",2020-03-18,Recovered,0
+"Virgin Islands","US",2020-03-18,Confirmed,2
+"Virgin Islands","US",2020-03-18,Deaths,0
+"Virgin Islands","US",2020-03-18,Recovered,0
+"Prince Edward Island","Canada",2020-03-18,Confirmed,1
+"Prince Edward Island","Canada",2020-03-18,Deaths,0
+"Prince Edward Island","Canada",2020-03-18,Recovered,0
+"US","US",2020-03-18,Confirmed,1
+"US","US",2020-03-18,Deaths,0
+"US","US",2020-03-18,Recovered,106
+"West Virginia","US",2020-03-18,Confirmed,1
+"West Virginia","US",2020-03-18,Deaths,0
+"West Virginia","US",2020-03-18,Recovered,0
+"New York","US",2020-03-19,Confirmed,5365
+"New York","US",2020-03-19,Deaths,34
+"New York","US",2020-03-19,Recovered,0
+"Washington","US",2020-03-19,Confirmed,1376
+"Washington","US",2020-03-19,Deaths,74
+"Washington","US",2020-03-19,Recovered,0
+"California","US",2020-03-19,Confirmed,952
+"California","US",2020-03-19,Deaths,18
+"California","US",2020-03-19,Recovered,0
+"New Jersey","US",2020-03-19,Confirmed,742
+"New Jersey","US",2020-03-19,Deaths,9
+"New Jersey","US",2020-03-19,Recovered,0
+"Illinois","US",2020-03-19,Confirmed,422
+"Illinois","US",2020-03-19,Deaths,4
+"Illinois","US",2020-03-19,Recovered,0
+"Florida","US",2020-03-19,Confirmed,417
+"Florida","US",2020-03-19,Deaths,9
+"Florida","US",2020-03-19,Recovered,0
+"Louisiana","US",2020-03-19,Confirmed,392
+"Louisiana","US",2020-03-19,Deaths,10
+"Louisiana","US",2020-03-19,Recovered,0
+"Michigan","US",2020-03-19,Confirmed,334
+"Michigan","US",2020-03-19,Deaths,3
+"Michigan","US",2020-03-19,Recovered,0
+"Massachusetts","US",2020-03-19,Confirmed,328
+"Massachusetts","US",2020-03-19,Deaths,0
+"Massachusetts","US",2020-03-19,Recovered,0
+"Georgia","US",2020-03-19,Confirmed,287
+"Georgia","US",2020-03-19,Deaths,10
+"Georgia","US",2020-03-19,Recovered,0
+"Colorado","US",2020-03-19,Confirmed,277
+"Colorado","US",2020-03-19,Deaths,4
+"Colorado","US",2020-03-19,Recovered,0
+"Texas","US",2020-03-19,Confirmed,260
+"Texas","US",2020-03-19,Deaths,5
+"Texas","US",2020-03-19,Recovered,0
+"Ontario","Canada",2020-03-19,Confirmed,257
+"Ontario","Canada",2020-03-19,Deaths,1
+"Ontario","Canada",2020-03-19,Recovered,5
+"British Columbia","Canada",2020-03-19,Confirmed,231
+"British Columbia","Canada",2020-03-19,Deaths,7
+"British Columbia","Canada",2020-03-19,Recovered,4
+"Pennsylvania","US",2020-03-19,Confirmed,206
+"Pennsylvania","US",2020-03-19,Deaths,1
+"Pennsylvania","US",2020-03-19,Recovered,0
+"Connecticut","US",2020-03-19,Confirmed,159
+"Connecticut","US",2020-03-19,Deaths,2
+"Connecticut","US",2020-03-19,Recovered,0
+"Wisconsin","US",2020-03-19,Confirmed,159
+"Wisconsin","US",2020-03-19,Deaths,0
+"Wisconsin","US",2020-03-19,Recovered,0
+"Tennessee","US",2020-03-19,Confirmed,154
+"Tennessee","US",2020-03-19,Deaths,0
+"Tennessee","US",2020-03-19,Recovered,0
+"North Carolina","US",2020-03-19,Confirmed,123
+"North Carolina","US",2020-03-19,Deaths,0
+"North Carolina","US",2020-03-19,Recovered,0
+"Quebec","Canada",2020-03-19,Confirmed,121
+"Quebec","Canada",2020-03-19,Deaths,1
+"Quebec","Canada",2020-03-19,Recovered,0
+"Alberta","Canada",2020-03-19,Confirmed,119
+"Alberta","Canada",2020-03-19,Deaths,0
+"Alberta","Canada",2020-03-19,Recovered,0
+"Ohio","US",2020-03-19,Confirmed,119
+"Ohio","US",2020-03-19,Deaths,0
+"Ohio","US",2020-03-19,Recovered,0
+"Maryland","US",2020-03-19,Confirmed,107
+"Maryland","US",2020-03-19,Deaths,1
+"Maryland","US",2020-03-19,Recovered,0
+"Virginia","US",2020-03-19,Confirmed,99
+"Virginia","US",2020-03-19,Deaths,2
+"Virginia","US",2020-03-19,Recovered,0
+"Nevada","US",2020-03-19,Confirmed,95
+"Nevada","US",2020-03-19,Deaths,1
+"Nevada","US",2020-03-19,Recovered,0
+"Minnesota","US",2020-03-19,Confirmed,89
+"Minnesota","US",2020-03-19,Deaths,0
+"Minnesota","US",2020-03-19,Recovered,0
+"Oregon","US",2020-03-19,Confirmed,88
+"Oregon","US",2020-03-19,Deaths,3
+"Oregon","US",2020-03-19,Recovered,0
+"South Carolina","US",2020-03-19,Confirmed,81
+"South Carolina","US",2020-03-19,Deaths,1
+"South Carolina","US",2020-03-19,Recovered,0
+"Utah","US",2020-03-19,Confirmed,80
+"Utah","US",2020-03-19,Deaths,0
+"Utah","US",2020-03-19,Recovered,0
+"Alabama","US",2020-03-19,Confirmed,78
+"Alabama","US",2020-03-19,Deaths,0
+"Alabama","US",2020-03-19,Recovered,0
+"Arkansas","US",2020-03-19,Confirmed,62
+"Arkansas","US",2020-03-19,Deaths,0
+"Arkansas","US",2020-03-19,Recovered,0
+"Indiana","US",2020-03-19,Confirmed,60
+"Indiana","US",2020-03-19,Deaths,2
+"Indiana","US",2020-03-19,Recovered,0
+"Maine","US",2020-03-19,Confirmed,52
+"Maine","US",2020-03-19,Deaths,0
+"Maine","US",2020-03-19,Recovered,0
+"Mississippi","US",2020-03-19,Confirmed,50
+"Mississippi","US",2020-03-19,Deaths,1
+"Mississippi","US",2020-03-19,Recovered,0
+"Diamond Princess","US",2020-03-19,Confirmed,47
+"Diamond Princess","US",2020-03-19,Deaths,0
+"Diamond Princess","US",2020-03-19,Recovered,0
+"Arizona","US",2020-03-19,Confirmed,45
+"Arizona","US",2020-03-19,Deaths,0
+"Arizona","US",2020-03-19,Recovered,0
+"Iowa","US",2020-03-19,Confirmed,44
+"Iowa","US",2020-03-19,Deaths,0
+"Iowa","US",2020-03-19,Recovered,0
+"New Hampshire","US",2020-03-19,Confirmed,44
+"New Hampshire","US",2020-03-19,Deaths,0
+"New Hampshire","US",2020-03-19,Recovered,0
+"Oklahoma","US",2020-03-19,Confirmed,44
+"Oklahoma","US",2020-03-19,Deaths,1
+"Oklahoma","US",2020-03-19,Recovered,0
+"Rhode Island","US",2020-03-19,Confirmed,44
+"Rhode Island","US",2020-03-19,Deaths,0
+"Rhode Island","US",2020-03-19,Recovered,0
+"District of Columbia","US",2020-03-19,Confirmed,40
+"District of Columbia","US",2020-03-19,Deaths,0
+"District of Columbia","US",2020-03-19,Recovered,0
+"Kentucky","US",2020-03-19,Confirmed,37
+"Kentucky","US",2020-03-19,Deaths,2
+"Kentucky","US",2020-03-19,Recovered,0
+"New Mexico","US",2020-03-19,Confirmed,35
+"New Mexico","US",2020-03-19,Deaths,0
+"New Mexico","US",2020-03-19,Recovered,0
+"Kansas","US",2020-03-19,Confirmed,34
+"Kansas","US",2020-03-19,Deaths,1
+"Kansas","US",2020-03-19,Recovered,0
+"Missouri","US",2020-03-19,Confirmed,31
+"Missouri","US",2020-03-19,Deaths,1
+"Missouri","US",2020-03-19,Recovered,0
+"Delaware","US",2020-03-19,Confirmed,30
+"Delaware","US",2020-03-19,Deaths,0
+"Delaware","US",2020-03-19,Recovered,0
+"Nebraska","US",2020-03-19,Confirmed,29
+"Nebraska","US",2020-03-19,Deaths,0
+"Nebraska","US",2020-03-19,Recovered,0
+"Vermont","US",2020-03-19,Confirmed,22
+"Vermont","US",2020-03-19,Deaths,0
+"Vermont","US",2020-03-19,Recovered,0
+"North Dakota","US",2020-03-19,Confirmed,18
+"North Dakota","US",2020-03-19,Deaths,0
+"North Dakota","US",2020-03-19,Recovered,0
+"Wyoming","US",2020-03-19,Confirmed,18
+"Wyoming","US",2020-03-19,Deaths,0
+"Wyoming","US",2020-03-19,Recovered,0
+"Manitoba","Canada",2020-03-19,Confirmed,17
+"Manitoba","Canada",2020-03-19,Deaths,0
+"Manitoba","Canada",2020-03-19,Recovered,0
+"Saskatchewan","Canada",2020-03-19,Confirmed,16
+"Saskatchewan","Canada",2020-03-19,Deaths,0
+"Saskatchewan","Canada",2020-03-19,Recovered,0
+"Hawaii","US",2020-03-19,Confirmed,16
+"Hawaii","US",2020-03-19,Deaths,0
+"Hawaii","US",2020-03-19,Recovered,0
+"Nova Scotia","Canada",2020-03-19,Confirmed,14
+"Nova Scotia","Canada",2020-03-19,Deaths,0
+"Nova Scotia","Canada",2020-03-19,Recovered,0
+"Guam","US",2020-03-19,Confirmed,12
+"Guam","US",2020-03-19,Deaths,0
+"Guam","US",2020-03-19,Recovered,0
+"New Brunswick","Canada",2020-03-19,Confirmed,11
+"New Brunswick","Canada",2020-03-19,Deaths,0
+"New Brunswick","Canada",2020-03-19,Recovered,0
+"Idaho","US",2020-03-19,Confirmed,11
+"Idaho","US",2020-03-19,Deaths,0
+"Idaho","US",2020-03-19,Recovered,0
+"Montana","US",2020-03-19,Confirmed,11
+"Montana","US",2020-03-19,Deaths,0
+"Montana","US",2020-03-19,Recovered,0
+"South Dakota","US",2020-03-19,Confirmed,11
+"South Dakota","US",2020-03-19,Deaths,1
+"South Dakota","US",2020-03-19,Recovered,0
+"Alaska","US",2020-03-19,Confirmed,9
+"Alaska","US",2020-03-19,Deaths,0
+"Alaska","US",2020-03-19,Recovered,0
+"Puerto Rico","US",2020-03-19,Confirmed,5
+"Puerto Rico","US",2020-03-19,Deaths,0
+"Puerto Rico","US",2020-03-19,Recovered,0
+"Newfoundland and Labrador","Canada",2020-03-19,Confirmed,3
+"Newfoundland and Labrador","Canada",2020-03-19,Deaths,0
+"Newfoundland and Labrador","Canada",2020-03-19,Recovered,0
+"Virgin Islands","US",2020-03-19,Confirmed,3
+"Virgin Islands","US",2020-03-19,Deaths,0
+"Virgin Islands","US",2020-03-19,Recovered,0
+"Prince Edward Island","Canada",2020-03-19,Confirmed,2
+"Prince Edward Island","Canada",2020-03-19,Deaths,0
+"Prince Edward Island","Canada",2020-03-19,Recovered,0
+"United States Virgin Islands","US",2020-03-19,Confirmed,2
+"United States Virgin Islands","US",2020-03-19,Deaths,0
+"United States Virgin Islands","US",2020-03-19,Recovered,0
+"West Virginia","US",2020-03-19,Confirmed,2
+"West Virginia","US",2020-03-19,Deaths,0
+"West Virginia","US",2020-03-19,Recovered,0
+"US","US",2020-03-19,Confirmed,1
+"US","US",2020-03-19,Deaths,0
+"US","US",2020-03-19,Recovered,108

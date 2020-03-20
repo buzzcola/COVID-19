@@ -1,0 +1,715 @@
+Province/State,Country/Region,Date,Metric,Count
+"Washington","US",2020-01-22,Confirmed,1
+"Washington","US",2020-01-23,Confirmed,1
+"Washington","US",2020-01-24,Confirmed,1
+"Chicago","US",2020-01-24,Confirmed,1
+"Washington","US",2020-01-25,Confirmed,1
+"Illinois","US",2020-01-25,Confirmed,1
+"Washington","US",2020-01-26,Confirmed,1
+"Illinois","US",2020-01-26,Confirmed,1
+"California","US",2020-01-26,Confirmed,2
+"Arizona","US",2020-01-26,Confirmed,1
+"Ontario","Canada",2020-01-26,Confirmed,1
+"Washington","US",2020-01-27,Confirmed,1
+"Illinois","US",2020-01-27,Confirmed,1
+"California","US",2020-01-27,Confirmed,2
+"Arizona","US",2020-01-27,Confirmed,1
+"Ontario","Canada",2020-01-27,Confirmed,1
+"Washington","US",2020-01-28,Confirmed,1
+"Illinois","US",2020-01-28,Confirmed,1
+"California","US",2020-01-28,Confirmed,2
+"Arizona","US",2020-01-28,Confirmed,1
+"Ontario","Canada",2020-01-28,Confirmed,1
+"British Columbia","Canada",2020-01-28,Confirmed,1
+"Washington","US",2020-01-29,Confirmed,1
+"Illinois","US",2020-01-29,Confirmed,1
+"California","US",2020-01-29,Confirmed,2
+"Arizona","US",2020-01-29,Confirmed,1
+"Ontario","Canada",2020-01-29,Confirmed,1
+"British Columbia","Canada",2020-01-29,Confirmed,1
+"Washington","US",2020-01-30,Confirmed,1
+"Illinois","US",2020-01-30,Confirmed,1
+"California","US",2020-01-30,Confirmed,2
+"Arizona","US",2020-01-30,Confirmed,1
+"Ontario","Canada",2020-01-30,Confirmed,2
+"British Columbia","Canada",2020-01-30,Confirmed,1
+"Illinois","US",2020-01-31,Confirmed,2
+"California","US",2020-01-31,Confirmed,2
+"Ontario","Canada",2020-01-31,Confirmed,2
+"Washington","US",2020-01-31,Confirmed,1
+"Arizona","US",2020-01-31,Confirmed,1
+"British Columbia","Canada",2020-01-31,Confirmed,1
+"Ontario","Canada",2020-02-01,Confirmed,3
+"British Columbia","Canada",2020-02-01,Confirmed,1
+"Ontario","Canada",2020-02-02,Confirmed,3
+"British Columbia","Canada",2020-02-02,Confirmed,1
+"Ontario","Canada",2020-02-03,Confirmed,3
+"British Columbia","Canada",2020-02-03,Confirmed,1
+"British Columbia","Canada",2020-02-04,Confirmed,1
+"British Columbia","Canada",2020-02-05,Confirmed,2
+"British Columbia","Canada",2020-02-06,Confirmed,2
+"British Columbia","Canada",2020-02-07,Confirmed,4
+"British Columbia","Canada",2020-02-08,Confirmed,4
+"British Columbia","Canada",2020-02-09,Confirmed,4
+"British Columbia","Canada",2020-02-10,Confirmed,4
+"British Columbia","Canada",2020-02-11,Confirmed,4
+"British Columbia","Canada",2020-02-12,Confirmed,4
+"British Columbia","Canada",2020-02-13,Confirmed,4
+"British Columbia","Canada",2020-02-14,Confirmed,4
+"British Columbia","Canada",2020-02-15,Confirmed,4
+"British Columbia","Canada",2020-02-16,Confirmed,4
+"British Columbia","Canada",2020-02-17,Confirmed,5
+"British Columbia","Canada",2020-02-18,Confirmed,5
+"British Columbia","Canada",2020-02-19,Confirmed,5
+"British Columbia","Canada",2020-02-20,Confirmed,5
+"British Columbia","Canada",2020-02-21,Confirmed,6
+"British Columbia","Canada",2020-02-22,Confirmed,6
+"British Columbia","Canada",2020-02-23,Confirmed,6
+"Unassigned Location (From Diamond Princess)","US",2020-02-24,Confirmed,36
+"British Columbia","Canada",2020-02-24,Confirmed,6
+"Unassigned Location (From Diamond Princess)","US",2020-02-25,Confirmed,36
+"British Columbia","Canada",2020-02-25,Confirmed,7
+"Unassigned Location (From Diamond Princess)","US",2020-02-26,Confirmed,42
+"British Columbia","Canada",2020-02-26,Confirmed,7
+"Unassigned Location (From Diamond Princess)","US",2020-02-27,Confirmed,42
+"British Columbia","Canada",2020-02-27,Confirmed,7
+"Unassigned Location (From Diamond Princess)","US",2020-02-28,Confirmed,44
+"British Columbia","Canada",2020-02-28,Confirmed,7
+"Unassigned Location (From Diamond Princess)","US",2020-02-29,Confirmed,44
+"British Columbia","Canada",2020-02-29,Confirmed,8
+"Unassigned Location (From Diamond Princess)","US",2020-03-01,Confirmed,44
+"British Columbia","Canada",2020-03-01,Confirmed,8
+"Unassigned Location (From Diamond Princess)","US",2020-03-02,Confirmed,45
+"British Columbia","Canada",2020-03-02,Confirmed,8
+"Unassigned Location (From Diamond Princess)","US",2020-03-03,Confirmed,45
+"British Columbia","Canada",2020-03-03,Confirmed,9
+"Unassigned Location (From Diamond Princess)","US",2020-03-04,Confirmed,45
+"British Columbia","Canada",2020-03-04,Confirmed,12
+"Unassigned Location (From Diamond Princess)","US",2020-03-05,Confirmed,45
+"British Columbia","Canada",2020-03-05,Confirmed,13
+"Unassigned Location (From Diamond Princess)","US",2020-03-06,Confirmed,45
+"British Columbia","Canada",2020-03-06,Confirmed,21
+"Unassigned Location (From Diamond Princess)","US",2020-03-07,Confirmed,45
+"British Columbia","Canada",2020-03-07,Confirmed,21
+"Grand Princess Cruise Ship","US",2020-03-07,Confirmed,21
+"Unassigned Location (From Diamond Princess)","US",2020-03-08,Confirmed,45
+"British Columbia","Canada",2020-03-08,Confirmed,27
+"Grand Princess Cruise Ship","US",2020-03-08,Confirmed,21
+"Unassigned Location (From Diamond Princess)","US",2020-03-09,Confirmed,45
+"Ontario","Canada",2020-03-09,Confirmed,34
+"British Columbia","Canada",2020-03-09,Confirmed,32
+"Grand Princess Cruise Ship","US",2020-03-09,Confirmed,21
+"Alberta","Canada",2020-03-09,Confirmed,7
+"Quebec","Canada",2020-03-09,Confirmed,3
+"Washington","US",2020-03-10,Confirmed,267
+"New York","US",2020-03-10,Confirmed,173
+"California","US",2020-03-10,Confirmed,144
+"Massachusetts","US",2020-03-10,Confirmed,92
+"Diamond Princess","US",2020-03-10,Confirmed,46
+"Ontario","Canada",2020-03-10,Confirmed,36
+"British Columbia","Canada",2020-03-10,Confirmed,32
+"Georgia","US",2020-03-10,Confirmed,17
+"Colorado","US",2020-03-10,Confirmed,15
+"Florida","US",2020-03-10,Confirmed,15
+"New Jersey","US",2020-03-10,Confirmed,15
+"Oregon","US",2020-03-10,Confirmed,15
+"Texas","US",2020-03-10,Confirmed,13
+"Illinois","US",2020-03-10,Confirmed,12
+"Pennsylvania","US",2020-03-10,Confirmed,12
+"Iowa","US",2020-03-10,Confirmed,8
+"Maryland","US",2020-03-10,Confirmed,8
+"Alberta","Canada",2020-03-10,Confirmed,7
+"North Carolina","US",2020-03-10,Confirmed,7
+"South Carolina","US",2020-03-10,Confirmed,7
+"Tennessee","US",2020-03-10,Confirmed,7
+"Virginia","US",2020-03-10,Confirmed,7
+"Arizona","US",2020-03-10,Confirmed,6
+"Indiana","US",2020-03-10,Confirmed,6
+"Kentucky","US",2020-03-10,Confirmed,6
+"District of Columbia","US",2020-03-10,Confirmed,5
+"Quebec","Canada",2020-03-10,Confirmed,4
+"Nevada","US",2020-03-10,Confirmed,4
+"New Hampshire","US",2020-03-10,Confirmed,4
+"Minnesota","US",2020-03-10,Confirmed,3
+"Nebraska","US",2020-03-10,Confirmed,3
+"Ohio","US",2020-03-10,Confirmed,3
+"Rhode Island","US",2020-03-10,Confirmed,3
+"Wisconsin","US",2020-03-10,Confirmed,3
+"Connecticut","US",2020-03-10,Confirmed,2
+"Hawaii","US",2020-03-10,Confirmed,2
+"Oklahoma","US",2020-03-10,Confirmed,2
+"Utah","US",2020-03-10,Confirmed,2
+"Kansas","US",2020-03-10,Confirmed,1
+"Louisiana","US",2020-03-10,Confirmed,1
+"Missouri","US",2020-03-10,Confirmed,1
+"Vermont","US",2020-03-10,Confirmed,1
+"Alaska","US",2020-03-10,Confirmed,0
+"Arkansas","US",2020-03-10,Confirmed,0
+"Delaware","US",2020-03-10,Confirmed,0
+"Idaho","US",2020-03-10,Confirmed,0
+"Maine","US",2020-03-10,Confirmed,0
+"Michigan","US",2020-03-10,Confirmed,0
+"Mississippi","US",2020-03-10,Confirmed,0
+"Montana","US",2020-03-10,Confirmed,0
+"New Mexico","US",2020-03-10,Confirmed,0
+"North Dakota","US",2020-03-10,Confirmed,0
+"South Dakota","US",2020-03-10,Confirmed,0
+"West Virginia","US",2020-03-10,Confirmed,0
+"Wyoming","US",2020-03-10,Confirmed,0
+"Washington","US",2020-03-11,Confirmed,366
+"New York","US",2020-03-11,Confirmed,220
+"California","US",2020-03-11,Confirmed,177
+"Massachusetts","US",2020-03-11,Confirmed,95
+"Diamond Princess","US",2020-03-11,Confirmed,46
+"Ontario","Canada",2020-03-11,Confirmed,41
+"British Columbia","Canada",2020-03-11,Confirmed,39
+"Colorado","US",2020-03-11,Confirmed,34
+"Florida","US",2020-03-11,Confirmed,28
+"Illinois","US",2020-03-11,Confirmed,25
+"Georgia","US",2020-03-11,Confirmed,23
+"New Jersey","US",2020-03-11,Confirmed,23
+"Texas","US",2020-03-11,Confirmed,21
+"Alberta","Canada",2020-03-11,Confirmed,19
+"Oregon","US",2020-03-11,Confirmed,19
+"Pennsylvania","US",2020-03-11,Confirmed,16
+"Iowa","US",2020-03-11,Confirmed,13
+"Indiana","US",2020-03-11,Confirmed,11
+"District of Columbia","US",2020-03-11,Confirmed,10
+"South Carolina","US",2020-03-11,Confirmed,10
+"Arizona","US",2020-03-11,Confirmed,9
+"Maryland","US",2020-03-11,Confirmed,9
+"Tennessee","US",2020-03-11,Confirmed,9
+"Virginia","US",2020-03-11,Confirmed,9
+"Quebec","Canada",2020-03-11,Confirmed,8
+"Kentucky","US",2020-03-11,Confirmed,8
+"South Dakota","US",2020-03-11,Confirmed,8
+"Nevada","US",2020-03-11,Confirmed,7
+"North Carolina","US",2020-03-11,Confirmed,7
+"Louisiana","US",2020-03-11,Confirmed,6
+"Wisconsin","US",2020-03-11,Confirmed,6
+"Minnesota","US",2020-03-11,Confirmed,5
+"Nebraska","US",2020-03-11,Confirmed,5
+"New Hampshire","US",2020-03-11,Confirmed,5
+"Rhode Island","US",2020-03-11,Confirmed,5
+"Ohio","US",2020-03-11,Confirmed,4
+"Connecticut","US",2020-03-11,Confirmed,3
+"New Mexico","US",2020-03-11,Confirmed,3
+"Utah","US",2020-03-11,Confirmed,3
+"Hawaii","US",2020-03-11,Confirmed,2
+"Michigan","US",2020-03-11,Confirmed,2
+"Oklahoma","US",2020-03-11,Confirmed,2
+"New Brunswick","Canada",2020-03-11,Confirmed,1
+"Arkansas","US",2020-03-11,Confirmed,1
+"Delaware","US",2020-03-11,Confirmed,1
+"Kansas","US",2020-03-11,Confirmed,1
+"Missouri","US",2020-03-11,Confirmed,1
+"Montana","US",2020-03-11,Confirmed,1
+"Vermont","US",2020-03-11,Confirmed,1
+"Alaska","US",2020-03-11,Confirmed,0
+"Idaho","US",2020-03-11,Confirmed,0
+"Maine","US",2020-03-11,Confirmed,0
+"Mississippi","US",2020-03-11,Confirmed,0
+"North Dakota","US",2020-03-11,Confirmed,0
+"West Virginia","US",2020-03-11,Confirmed,0
+"Wyoming","US",2020-03-11,Confirmed,0
+"Washington","US",2020-03-12,Confirmed,442
+"New York","US",2020-03-12,Confirmed,328
+"California","US",2020-03-12,Confirmed,221
+"Massachusetts","US",2020-03-12,Confirmed,108
+"British Columbia","Canada",2020-03-12,Confirmed,46
+"Diamond Princess","US",2020-03-12,Confirmed,46
+"Colorado","US",2020-03-12,Confirmed,45
+"Ontario","Canada",2020-03-12,Confirmed,42
+"Florida","US",2020-03-12,Confirmed,35
+"Illinois","US",2020-03-12,Confirmed,32
+"Georgia","US",2020-03-12,Confirmed,31
+"New Jersey","US",2020-03-12,Confirmed,29
+"Texas","US",2020-03-12,Confirmed,27
+"Oregon","US",2020-03-12,Confirmed,24
+"Pennsylvania","US",2020-03-12,Confirmed,22
+"Alberta","Canada",2020-03-12,Confirmed,19
+"Louisiana","US",2020-03-12,Confirmed,19
+"Tennessee","US",2020-03-12,Confirmed,18
+"Virginia","US",2020-03-12,Confirmed,17
+"Iowa","US",2020-03-12,Confirmed,16
+"North Carolina","US",2020-03-12,Confirmed,15
+"Nevada","US",2020-03-12,Confirmed,14
+"Indiana","US",2020-03-12,Confirmed,13
+"Maryland","US",2020-03-12,Confirmed,12
+"South Carolina","US",2020-03-12,Confirmed,12
+"District of Columbia","US",2020-03-12,Confirmed,10
+"Kentucky","US",2020-03-12,Confirmed,10
+"Nebraska","US",2020-03-12,Confirmed,10
+"Quebec","Canada",2020-03-12,Confirmed,9
+"Arizona","US",2020-03-12,Confirmed,9
+"Minnesota","US",2020-03-12,Confirmed,9
+"South Dakota","US",2020-03-12,Confirmed,8
+"Wisconsin","US",2020-03-12,Confirmed,8
+"Arkansas","US",2020-03-12,Confirmed,6
+"New Hampshire","US",2020-03-12,Confirmed,6
+"Connecticut","US",2020-03-12,Confirmed,5
+"New Mexico","US",2020-03-12,Confirmed,5
+"Ohio","US",2020-03-12,Confirmed,5
+"Rhode Island","US",2020-03-12,Confirmed,5
+"Utah","US",2020-03-12,Confirmed,5
+"Hawaii","US",2020-03-12,Confirmed,2
+"Michigan","US",2020-03-12,Confirmed,2
+"Oklahoma","US",2020-03-12,Confirmed,2
+"Vermont","US",2020-03-12,Confirmed,2
+"New Brunswick","Canada",2020-03-12,Confirmed,1
+"Delaware","US",2020-03-12,Confirmed,1
+"Kansas","US",2020-03-12,Confirmed,1
+"Mississippi","US",2020-03-12,Confirmed,1
+"Missouri","US",2020-03-12,Confirmed,1
+"Montana","US",2020-03-12,Confirmed,1
+"North Dakota","US",2020-03-12,Confirmed,1
+"Wyoming","US",2020-03-12,Confirmed,1
+"Alaska","US",2020-03-12,Confirmed,0
+"Idaho","US",2020-03-12,Confirmed,0
+"Maine","US",2020-03-12,Confirmed,0
+"West Virginia","US",2020-03-12,Confirmed,0
+"British Columbia","Canada",2020-03-13,Confirmed,64
+"Ontario","Canada",2020-03-13,Confirmed,74
+"Diamond Princess","US",2020-03-13,Confirmed,46
+"New Brunswick","Canada",2020-03-13,Confirmed,1
+"Quebec","Canada",2020-03-13,Confirmed,17
+"Manitoba","Canada",2020-03-13,Confirmed,4
+"Saskatchewan","Canada",2020-03-13,Confirmed,2
+"Alabama","US",2020-03-13,Confirmed,5
+"Alberta","Canada",2020-03-13,Confirmed,29
+"Alaska","US",2020-03-13,Confirmed,1
+"Arizona","US",2020-03-13,Confirmed,9
+"Arkansas","US",2020-03-13,Confirmed,6
+"California","US",2020-03-13,Confirmed,282
+"Colorado","US",2020-03-13,Confirmed,49
+"Connecticut","US",2020-03-13,Confirmed,11
+"Delaware","US",2020-03-13,Confirmed,4
+"District of Columbia","US",2020-03-13,Confirmed,10
+"Florida","US",2020-03-13,Confirmed,50
+"Georgia","US",2020-03-13,Confirmed,42
+"Hawaii","US",2020-03-13,Confirmed,2
+"Idaho","US",2020-03-13,Confirmed,1
+"Illinois","US",2020-03-13,Confirmed,46
+"Indiana","US",2020-03-13,Confirmed,13
+"Iowa","US",2020-03-13,Confirmed,17
+"Kansas","US",2020-03-13,Confirmed,5
+"Kentucky","US",2020-03-13,Confirmed,14
+"Louisiana","US",2020-03-13,Confirmed,36
+"Maine","US",2020-03-13,Confirmed,1
+"Maryland","US",2020-03-13,Confirmed,18
+"Massachusetts","US",2020-03-13,Confirmed,123
+"Michigan","US",2020-03-13,Confirmed,16
+"Minnesota","US",2020-03-13,Confirmed,14
+"Mississippi","US",2020-03-13,Confirmed,1
+"Missouri","US",2020-03-13,Confirmed,2
+"Montana","US",2020-03-13,Confirmed,1
+"Nebraska","US",2020-03-13,Confirmed,13
+"Nevada","US",2020-03-13,Confirmed,17
+"New Hampshire","US",2020-03-13,Confirmed,6
+"New Jersey","US",2020-03-13,Confirmed,29
+"New Mexico","US",2020-03-13,Confirmed,10
+"New York","US",2020-03-13,Confirmed,421
+"North Carolina","US",2020-03-13,Confirmed,17
+"North Dakota","US",2020-03-13,Confirmed,1
+"Ohio","US",2020-03-13,Confirmed,13
+"Oklahoma","US",2020-03-13,Confirmed,2
+"Oregon","US",2020-03-13,Confirmed,30
+"Pennsylvania","US",2020-03-13,Confirmed,41
+"Rhode Island","US",2020-03-13,Confirmed,14
+"South Carolina","US",2020-03-13,Confirmed,13
+"South Dakota","US",2020-03-13,Confirmed,8
+"Tennessee","US",2020-03-13,Confirmed,26
+"Texas","US",2020-03-13,Confirmed,43
+"Utah","US",2020-03-13,Confirmed,9
+"Vermont","US",2020-03-13,Confirmed,2
+"Virginia","US",2020-03-13,Confirmed,30
+"Washington","US",2020-03-13,Confirmed,568
+"West Virginia","US",2020-03-13,Confirmed,0
+"Wisconsin","US",2020-03-13,Confirmed,19
+"Wyoming","US",2020-03-13,Confirmed,1
+"Washington","US",2020-03-14,Confirmed,572
+"New York","US",2020-03-14,Confirmed,525
+"California","US",2020-03-14,Confirmed,340
+"Massachusetts","US",2020-03-14,Confirmed,138
+"Colorado","US",2020-03-14,Confirmed,101
+"Ontario","Canada",2020-03-14,Confirmed,79
+"Louisiana","US",2020-03-14,Confirmed,77
+"Florida","US",2020-03-14,Confirmed,76
+"New Jersey","US",2020-03-14,Confirmed,69
+"Georgia","US",2020-03-14,Confirmed,66
+"British Columbia","Canada",2020-03-14,Confirmed,64
+"Illinois","US",2020-03-14,Confirmed,64
+"Texas","US",2020-03-14,Confirmed,57
+"Pennsylvania","US",2020-03-14,Confirmed,47
+"Diamond Princess","US",2020-03-14,Confirmed,46
+"Virginia","US",2020-03-14,Confirmed,41
+"Oregon","US",2020-03-14,Confirmed,32
+"Tennessee","US",2020-03-14,Confirmed,32
+"Alberta","Canada",2020-03-14,Confirmed,29
+"Wisconsin","US",2020-03-14,Confirmed,27
+"Maryland","US",2020-03-14,Confirmed,26
+"Ohio","US",2020-03-14,Confirmed,26
+"Michigan","US",2020-03-14,Confirmed,25
+"North Carolina","US",2020-03-14,Confirmed,24
+"Connecticut","US",2020-03-14,Confirmed,22
+"Minnesota","US",2020-03-14,Confirmed,21
+"Nevada","US",2020-03-14,Confirmed,21
+"Rhode Island","US",2020-03-14,Confirmed,20
+"South Carolina","US",2020-03-14,Confirmed,19
+"Quebec","Canada",2020-03-14,Confirmed,17
+"Iowa","US",2020-03-14,Confirmed,17
+"Indiana","US",2020-03-14,Confirmed,16
+"Kentucky","US",2020-03-14,Confirmed,14
+"Nebraska","US",2020-03-14,Confirmed,14
+"Arizona","US",2020-03-14,Confirmed,12
+"Arkansas","US",2020-03-14,Confirmed,12
+"District of Columbia","US",2020-03-14,Confirmed,10
+"New Mexico","US",2020-03-14,Confirmed,10
+"Utah","US",2020-03-14,Confirmed,10
+"South Dakota","US",2020-03-14,Confirmed,9
+"Kansas","US",2020-03-14,Confirmed,8
+"New Hampshire","US",2020-03-14,Confirmed,7
+"Alabama","US",2020-03-14,Confirmed,6
+"Delaware","US",2020-03-14,Confirmed,6
+"Mississippi","US",2020-03-14,Confirmed,6
+"Montana","US",2020-03-14,Confirmed,5
+"Vermont","US",2020-03-14,Confirmed,5
+"Manitoba","Canada",2020-03-14,Confirmed,4
+"Hawaii","US",2020-03-14,Confirmed,4
+"Missouri","US",2020-03-14,Confirmed,4
+"Oklahoma","US",2020-03-14,Confirmed,4
+"Maine","US",2020-03-14,Confirmed,3
+"Puerto Rico","US",2020-03-14,Confirmed,3
+"Saskatchewan","Canada",2020-03-14,Confirmed,2
+"Idaho","US",2020-03-14,Confirmed,2
+"Wyoming","US",2020-03-14,Confirmed,2
+"New Brunswick","Canada",2020-03-14,Confirmed,1
+"North Dakota","US",2020-03-14,Confirmed,1
+"West Virginia","US",2020-03-14,Confirmed,0
+"New York","US",2020-03-15,Confirmed,732
+"Washington","US",2020-03-15,Confirmed,643
+"California","US",2020-03-15,Confirmed,426
+"Massachusetts","US",2020-03-15,Confirmed,164
+"Florida","US",2020-03-15,Confirmed,115
+"Ontario","Canada",2020-03-15,Confirmed,104
+"Colorado","US",2020-03-15,Confirmed,131
+"Georgia","US",2020-03-15,Confirmed,99
+"Louisiana","US",2020-03-15,Confirmed,91
+"New Jersey","US",2020-03-15,Confirmed,98
+"British Columbia","Canada",2020-03-15,Confirmed,73
+"Illinois","US",2020-03-15,Confirmed,93
+"Texas","US",2020-03-15,Confirmed,72
+"Pennsylvania","US",2020-03-15,Confirmed,66
+"Diamond Princess","US",2020-03-15,Confirmed,46
+"Virginia","US",2020-03-15,Confirmed,45
+"Alberta","Canada",2020-03-15,Confirmed,39
+"Oregon","US",2020-03-15,Confirmed,36
+"Minnesota","US",2020-03-15,Confirmed,35
+"Michigan","US",2020-03-15,Confirmed,33
+"North Carolina","US",2020-03-15,Confirmed,33
+"Tennessee","US",2020-03-15,Confirmed,39
+"Maryland","US",2020-03-15,Confirmed,32
+"Ohio","US",2020-03-15,Confirmed,37
+"Wisconsin","US",2020-03-15,Confirmed,32
+"Quebec","Canada",2020-03-15,Confirmed,24
+"Connecticut","US",2020-03-15,Confirmed,24
+"Utah","US",2020-03-15,Confirmed,28
+"Nevada","US",2020-03-15,Confirmed,24
+"Indiana","US",2020-03-15,Confirmed,20
+"Rhode Island","US",2020-03-15,Confirmed,20
+"South Carolina","US",2020-03-15,Confirmed,28
+"Iowa","US",2020-03-15,Confirmed,18
+"Kentucky","US",2020-03-15,Confirmed,20
+"Nebraska","US",2020-03-15,Confirmed,17
+"Arkansas","US",2020-03-15,Confirmed,16
+"District of Columbia","US",2020-03-15,Confirmed,16
+"New Mexico","US",2020-03-15,Confirmed,13
+"Alabama","US",2020-03-15,Confirmed,12
+"Arizona","US",2020-03-15,Confirmed,13
+"South Dakota","US",2020-03-15,Confirmed,9
+"Kansas","US",2020-03-15,Confirmed,8
+"Montana","US",2020-03-15,Confirmed,7
+"New Hampshire","US",2020-03-15,Confirmed,13
+"Delaware","US",2020-03-15,Confirmed,7
+"Hawaii","US",2020-03-15,Confirmed,6
+"Maine","US",2020-03-15,Confirmed,12
+"Mississippi","US",2020-03-15,Confirmed,10
+"Idaho","US",2020-03-15,Confirmed,5
+"Missouri","US",2020-03-15,Confirmed,5
+"Vermont","US",2020-03-15,Confirmed,8
+"Manitoba","Canada",2020-03-15,Confirmed,4
+"Oklahoma","US",2020-03-15,Confirmed,7
+"Guam","US",2020-03-15,Confirmed,3
+"Puerto Rico","US",2020-03-15,Confirmed,5
+"Wyoming","US",2020-03-15,Confirmed,3
+"New Brunswick","Canada",2020-03-15,Confirmed,2
+"Saskatchewan","Canada",2020-03-15,Confirmed,2
+"Newfoundland and Labrador","Canada",2020-03-15,Confirmed,1
+"Prince Edward Island","Canada",2020-03-15,Confirmed,1
+"Alaska","US",2020-03-15,Confirmed,1
+"North Dakota","US",2020-03-15,Confirmed,1
+"West Virginia","US",2020-03-15,Confirmed,0
+"New York","US",2020-03-16,Confirmed,967
+"Washington","US",2020-03-16,Confirmed,904
+"California","US",2020-03-16,Confirmed,557
+"Massachusetts","US",2020-03-16,Confirmed,197
+"New Jersey","US",2020-03-16,Confirmed,178
+"Ontario","Canada",2020-03-16,Confirmed,177
+"Colorado","US",2020-03-16,Confirmed,160
+"Florida","US",2020-03-16,Confirmed,155
+"Louisiana","US",2020-03-16,Confirmed,136
+"Georgia","US",2020-03-16,Confirmed,121
+"Illinois","US",2020-03-16,Confirmed,105
+"British Columbia","Canada",2020-03-16,Confirmed,103
+"Texas","US",2020-03-16,Confirmed,85
+"Pennsylvania","US",2020-03-16,Confirmed,77
+"Alberta","Canada",2020-03-16,Confirmed,56
+"Minnesota","US",2020-03-16,Confirmed,54
+"Michigan","US",2020-03-16,Confirmed,53
+"Tennessee","US",2020-03-16,Confirmed,52
+"Quebec","Canada",2020-03-16,Confirmed,50
+"Ohio","US",2020-03-16,Confirmed,50
+"Virginia","US",2020-03-16,Confirmed,49
+"Diamond Princess","US",2020-03-16,Confirmed,47
+"Wisconsin","US",2020-03-16,Confirmed,47
+"Nevada","US",2020-03-16,Confirmed,45
+"Maryland","US",2020-03-16,Confirmed,41
+"Oregon","US",2020-03-16,Confirmed,39
+"Utah","US",2020-03-16,Confirmed,39
+"North Carolina","US",2020-03-16,Confirmed,38
+"South Carolina","US",2020-03-16,Confirmed,33
+"Connecticut","US",2020-03-16,Confirmed,30
+"Alabama","US",2020-03-16,Confirmed,29
+"Indiana","US",2020-03-16,Confirmed,25
+"Iowa","US",2020-03-16,Confirmed,23
+"Arkansas","US",2020-03-16,Confirmed,22
+"District of Columbia","US",2020-03-16,Confirmed,22
+"Kentucky","US",2020-03-16,Confirmed,21
+"Rhode Island","US",2020-03-16,Confirmed,21
+"Arizona","US",2020-03-16,Confirmed,18
+"Nebraska","US",2020-03-16,Confirmed,18
+"Maine","US",2020-03-16,Confirmed,17
+"New Hampshire","US",2020-03-16,Confirmed,17
+"New Mexico","US",2020-03-16,Confirmed,17
+"Mississippi","US",2020-03-16,Confirmed,13
+"Vermont","US",2020-03-16,Confirmed,12
+"Kansas","US",2020-03-16,Confirmed,11
+"Oklahoma","US",2020-03-16,Confirmed,10
+"South Dakota","US",2020-03-16,Confirmed,10
+"Delaware","US",2020-03-16,Confirmed,8
+"Manitoba","Canada",2020-03-16,Confirmed,7
+"Saskatchewan","Canada",2020-03-16,Confirmed,7
+"Hawaii","US",2020-03-16,Confirmed,7
+"Montana","US",2020-03-16,Confirmed,7
+"New Brunswick","Canada",2020-03-16,Confirmed,6
+"Missouri","US",2020-03-16,Confirmed,6
+"Nova Scotia","Canada",2020-03-16,Confirmed,5
+"Idaho","US",2020-03-16,Confirmed,5
+"Puerto Rico","US",2020-03-16,Confirmed,5
+"Guam","US",2020-03-16,Confirmed,3
+"Wyoming","US",2020-03-16,Confirmed,3
+"Newfoundland and Labrador","Canada",2020-03-16,Confirmed,1
+"Prince Edward Island","Canada",2020-03-16,Confirmed,1
+"Alaska","US",2020-03-16,Confirmed,1
+"North Dakota","US",2020-03-16,Confirmed,1
+"Virgin Islands","US",2020-03-16,Confirmed,1
+"West Virginia","US",2020-03-16,Confirmed,0
+"New York","US",2020-03-17,Confirmed,1706
+"Washington","US",2020-03-17,Confirmed,1076
+"California","US",2020-03-17,Confirmed,698
+"New Jersey","US",2020-03-17,Confirmed,267
+"Massachusetts","US",2020-03-17,Confirmed,218
+"Florida","US",2020-03-17,Confirmed,216
+"Louisiana","US",2020-03-17,Confirmed,196
+"Ontario","Canada",2020-03-17,Confirmed,185
+"Illinois","US",2020-03-17,Confirmed,161
+"Colorado","US",2020-03-17,Confirmed,160
+"Georgia","US",2020-03-17,Confirmed,146
+"Pennsylvania","US",2020-03-17,Confirmed,112
+"Texas","US",2020-03-17,Confirmed,110
+"British Columbia","Canada",2020-03-17,Confirmed,103
+"Alberta","Canada",2020-03-17,Confirmed,74
+"Quebec","Canada",2020-03-17,Confirmed,74
+"Tennessee","US",2020-03-17,Confirmed,74
+"Wisconsin","US",2020-03-17,Confirmed,72
+"Connecticut","US",2020-03-17,Confirmed,68
+"Ohio","US",2020-03-17,Confirmed,67
+"Virginia","US",2020-03-17,Confirmed,67
+"Oregon","US",2020-03-17,Confirmed,66
+"Michigan","US",2020-03-17,Confirmed,65
+"North Carolina","US",2020-03-17,Confirmed,64
+"Maryland","US",2020-03-17,Confirmed,60
+"Minnesota","US",2020-03-17,Confirmed,60
+"Nevada","US",2020-03-17,Confirmed,56
+"Utah","US",2020-03-17,Confirmed,51
+"Diamond Princess","US",2020-03-17,Confirmed,47
+"South Carolina","US",2020-03-17,Confirmed,47
+"Alabama","US",2020-03-17,Confirmed,39
+"Maine","US",2020-03-17,Confirmed,32
+"Indiana","US",2020-03-17,Confirmed,30
+"Kentucky","US",2020-03-17,Confirmed,26
+"New Hampshire","US",2020-03-17,Confirmed,26
+"Iowa","US",2020-03-17,Confirmed,23
+"New Mexico","US",2020-03-17,Confirmed,23
+"Rhode Island","US",2020-03-17,Confirmed,23
+"Arkansas","US",2020-03-17,Confirmed,22
+"District of Columbia","US",2020-03-17,Confirmed,22
+"Mississippi","US",2020-03-17,Confirmed,21
+"Nebraska","US",2020-03-17,Confirmed,21
+"Arizona","US",2020-03-17,Confirmed,20
+"Oklahoma","US",2020-03-17,Confirmed,19
+"Kansas","US",2020-03-17,Confirmed,18
+"Delaware","US",2020-03-17,Confirmed,16
+"Vermont","US",2020-03-17,Confirmed,12
+"Missouri","US",2020-03-17,Confirmed,11
+"South Dakota","US",2020-03-17,Confirmed,11
+"Wyoming","US",2020-03-17,Confirmed,11
+"Hawaii","US",2020-03-17,Confirmed,10
+"Montana","US",2020-03-17,Confirmed,9
+"Manitoba","Canada",2020-03-17,Confirmed,8
+"New Brunswick","Canada",2020-03-17,Confirmed,8
+"Idaho","US",2020-03-17,Confirmed,8
+"Nova Scotia","Canada",2020-03-17,Confirmed,7
+"Saskatchewan","Canada",2020-03-17,Confirmed,7
+"Puerto Rico","US",2020-03-17,Confirmed,5
+"Newfoundland and Labrador","Canada",2020-03-17,Confirmed,3
+"Alaska","US",2020-03-17,Confirmed,3
+"Guam","US",2020-03-17,Confirmed,3
+"North Dakota","US",2020-03-17,Confirmed,3
+"Virgin Islands","US",2020-03-17,Confirmed,2
+"Prince Edward Island","Canada",2020-03-17,Confirmed,1
+"West Virginia","US",2020-03-17,Confirmed,1
+"New York","US",2020-03-18,Confirmed,2495
+"Washington","US",2020-03-18,Confirmed,1014
+"California","US",2020-03-18,Confirmed,751
+"Florida","US",2020-03-18,Confirmed,314
+"New Jersey","US",2020-03-18,Confirmed,267
+"Louisiana","US",2020-03-18,Confirmed,257
+"Ontario","Canada",2020-03-18,Confirmed,221
+"Massachusetts","US",2020-03-18,Confirmed,218
+"Georgia","US",2020-03-18,Confirmed,199
+"British Columbia","Canada",2020-03-18,Confirmed,186
+"Colorado","US",2020-03-18,Confirmed,184
+"Texas","US",2020-03-18,Confirmed,173
+"Illinois","US",2020-03-18,Confirmed,162
+"Pennsylvania","US",2020-03-18,Confirmed,152
+"Alberta","Canada",2020-03-18,Confirmed,97
+"Quebec","Canada",2020-03-18,Confirmed,94
+"Wisconsin","US",2020-03-18,Confirmed,92
+"Ohio","US",2020-03-18,Confirmed,86
+"Maryland","US",2020-03-18,Confirmed,85
+"Michigan","US",2020-03-18,Confirmed,83
+"Tennessee","US",2020-03-18,Confirmed,79
+"Minnesota","US",2020-03-18,Confirmed,77
+"Virginia","US",2020-03-18,Confirmed,77
+"North Carolina","US",2020-03-18,Confirmed,70
+"Connecticut","US",2020-03-18,Confirmed,68
+"Oregon","US",2020-03-18,Confirmed,68
+"Nevada","US",2020-03-18,Confirmed,55
+"Utah","US",2020-03-18,Confirmed,51
+"Diamond Princess","US",2020-03-18,Confirmed,47
+"South Carolina","US",2020-03-18,Confirmed,47
+"Alabama","US",2020-03-18,Confirmed,46
+"Maine","US",2020-03-18,Confirmed,42
+"Indiana","US",2020-03-18,Confirmed,39
+"Mississippi","US",2020-03-18,Confirmed,34
+"Arkansas","US",2020-03-18,Confirmed,33
+"Rhode Island","US",2020-03-18,Confirmed,33
+"District of Columbia","US",2020-03-18,Confirmed,31
+"Iowa","US",2020-03-18,Confirmed,29
+"Arizona","US",2020-03-18,Confirmed,27
+"Kentucky","US",2020-03-18,Confirmed,27
+"New Hampshire","US",2020-03-18,Confirmed,26
+"Nebraska","US",2020-03-18,Confirmed,24
+"New Mexico","US",2020-03-18,Confirmed,23
+"Delaware","US",2020-03-18,Confirmed,19
+"Oklahoma","US",2020-03-18,Confirmed,19
+"Kansas","US",2020-03-18,Confirmed,18
+"Missouri","US",2020-03-18,Confirmed,18
+"Vermont","US",2020-03-18,Confirmed,18
+"Manitoba","Canada",2020-03-18,Confirmed,15
+"Wyoming","US",2020-03-18,Confirmed,15
+"Hawaii","US",2020-03-18,Confirmed,14
+"Nova Scotia","Canada",2020-03-18,Confirmed,12
+"New Brunswick","Canada",2020-03-18,Confirmed,11
+"Montana","US",2020-03-18,Confirmed,11
+"South Dakota","US",2020-03-18,Confirmed,11
+"Idaho","US",2020-03-18,Confirmed,9
+"Saskatchewan","Canada",2020-03-18,Confirmed,8
+"Alaska","US",2020-03-18,Confirmed,6
+"North Dakota","US",2020-03-18,Confirmed,6
+"Guam","US",2020-03-18,Confirmed,5
+"Puerto Rico","US",2020-03-18,Confirmed,5
+"Newfoundland and Labrador","Canada",2020-03-18,Confirmed,3
+"United States Virgin Islands","US",2020-03-18,Confirmed,2
+"Virgin Islands","US",2020-03-18,Confirmed,2
+"Prince Edward Island","Canada",2020-03-18,Confirmed,1
+"US","US",2020-03-18,Confirmed,1
+"West Virginia","US",2020-03-18,Confirmed,1
+"New York","US",2020-03-19,Confirmed,5365
+"Washington","US",2020-03-19,Confirmed,1376
+"California","US",2020-03-19,Confirmed,952
+"New Jersey","US",2020-03-19,Confirmed,742
+"Illinois","US",2020-03-19,Confirmed,422
+"Florida","US",2020-03-19,Confirmed,417
+"Louisiana","US",2020-03-19,Confirmed,392
+"Michigan","US",2020-03-19,Confirmed,334
+"Massachusetts","US",2020-03-19,Confirmed,328
+"Georgia","US",2020-03-19,Confirmed,287
+"Colorado","US",2020-03-19,Confirmed,277
+"Texas","US",2020-03-19,Confirmed,260
+"Ontario","Canada",2020-03-19,Confirmed,257
+"British Columbia","Canada",2020-03-19,Confirmed,231
+"Pennsylvania","US",2020-03-19,Confirmed,206
+"Connecticut","US",2020-03-19,Confirmed,159
+"Wisconsin","US",2020-03-19,Confirmed,159
+"Tennessee","US",2020-03-19,Confirmed,154
+"North Carolina","US",2020-03-19,Confirmed,123
+"Quebec","Canada",2020-03-19,Confirmed,121
+"Alberta","Canada",2020-03-19,Confirmed,119
+"Ohio","US",2020-03-19,Confirmed,119
+"Maryland","US",2020-03-19,Confirmed,107
+"Virginia","US",2020-03-19,Confirmed,99
+"Nevada","US",2020-03-19,Confirmed,95
+"Minnesota","US",2020-03-19,Confirmed,89
+"Oregon","US",2020-03-19,Confirmed,88
+"South Carolina","US",2020-03-19,Confirmed,81
+"Utah","US",2020-03-19,Confirmed,80
+"Alabama","US",2020-03-19,Confirmed,78
+"Arkansas","US",2020-03-19,Confirmed,62
+"Indiana","US",2020-03-19,Confirmed,60
+"Maine","US",2020-03-19,Confirmed,52
+"Mississippi","US",2020-03-19,Confirmed,50
+"Diamond Princess","US",2020-03-19,Confirmed,47
+"Arizona","US",2020-03-19,Confirmed,45
+"Iowa","US",2020-03-19,Confirmed,44
+"New Hampshire","US",2020-03-19,Confirmed,44
+"Oklahoma","US",2020-03-19,Confirmed,44
+"Rhode Island","US",2020-03-19,Confirmed,44
+"District of Columbia","US",2020-03-19,Confirmed,40
+"Kentucky","US",2020-03-19,Confirmed,37
+"New Mexico","US",2020-03-19,Confirmed,35
+"Kansas","US",2020-03-19,Confirmed,34
+"Missouri","US",2020-03-19,Confirmed,31
+"Delaware","US",2020-03-19,Confirmed,30
+"Nebraska","US",2020-03-19,Confirmed,29
+"Vermont","US",2020-03-19,Confirmed,22
+"North Dakota","US",2020-03-19,Confirmed,18
+"Wyoming","US",2020-03-19,Confirmed,18
+"Manitoba","Canada",2020-03-19,Confirmed,17
+"Saskatchewan","Canada",2020-03-19,Confirmed,16
+"Hawaii","US",2020-03-19,Confirmed,16
+"Nova Scotia","Canada",2020-03-19,Confirmed,14
+"Guam","US",2020-03-19,Confirmed,12
+"New Brunswick","Canada",2020-03-19,Confirmed,11
+"Idaho","US",2020-03-19,Confirmed,11
+"Montana","US",2020-03-19,Confirmed,11
+"South Dakota","US",2020-03-19,Confirmed,11
+"Alaska","US",2020-03-19,Confirmed,9
+"Puerto Rico","US",2020-03-19,Confirmed,5
+"Newfoundland and Labrador","Canada",2020-03-19,Confirmed,3
+"Virgin Islands","US",2020-03-19,Confirmed,3
+"Prince Edward Island","Canada",2020-03-19,Confirmed,2
+"United States Virgin Islands","US",2020-03-19,Confirmed,2
+"West Virginia","US",2020-03-19,Confirmed,2
+"US","US",2020-03-19,Confirmed,1
